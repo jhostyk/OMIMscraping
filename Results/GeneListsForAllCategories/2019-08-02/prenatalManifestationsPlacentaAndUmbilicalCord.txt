@@ -1,0 +1,50 @@
+Gene lists for synopses that have a symptom in prenatalManifestationsPlacentaAndUmbilicalCord. Scraped 2019-08-02.
+MUSK
+NCAPG2
+DER22t11-22
+WASHC5
+KAOGS
+NRAS
+TAPT1
+L11
+SPECC1L
+KHDC3L
+DEL8q13
+P450
+GPR126
+NLRP7
+KIAA0196
+HYOU1
+Caused by chromosome 14 paternal uniparental disomy {UMLS C4017770}
+POR
+CFSS
+SULF1
+MKS1
+SLCO5A1
+RAS
+C6orf221
+MPDZ
+DOK7
+A
+NALP7
+LONP1
+PDZ
+G
+F
+Caused by non-Robertsonian constitutional translocation
+INTU
+RPL11
+NPHS1
+GATA6
+LMNA
+G2
+II
+NACHT
+SCARF2
+(11|22)(q23|q11.2)
+No known molecular basis.
+STE24
+RAPSN
+ADGRG6
+TTC37
+ZMPSTE24

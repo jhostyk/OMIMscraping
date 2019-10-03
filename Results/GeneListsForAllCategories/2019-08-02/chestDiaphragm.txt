@@ -1,0 +1,79 @@
+Gene lists for synopses that have a symptom in chestDiaphragm. Scraped 2019-08-02.
+THAS
+A
+Caused by non-Robertsonian constitutional translocation
+TGFB3
+DER22t11-22
+SMAR
+MMTV
+FRIASS
+HYLS1
+ASNS
+KIAA0586
+MEGF8
+EFNB1
+ABL1
+RING
+FBLN5
+GATA6
+PKS
+SLC52A3
+DEL15q25
+KIAA0568
+PLOD3
+NEK9
+GPR126
+CHRNG
+ALG9
+TTN
+MTM1
+TRPV4
+RPS28
+DIS3L2
+RLIM
+Caused by deletion (1.7Mb) of 1q41-q42 {UMLS C3278238}
+DEL1q41q42
+RPS26
+WT1
+C
+LTBP4
+G
+RSPO2
+STAG2
+STRA6
+PIEZO1
+EFEMP2
+BAG3
+TRRAP
+N
+Contiguous gene syndrome caused by mosaicism for tetrasomy of chromosome 12p {UMLS C4012618}
+RARB
+IGHMBP2
+PIGN
+V
+Contiguous gene syndrome caused by minimum 660kB deletion within a hotspot on chromosome 15q25.2-q25.3 {UMLS C4229691}
+S28
+SLC2A10
+MYRF
+PBX1
+LRP2
+PORCN
+PCGF2
+SIN3
+CHST14
+(11|22)(q23|q11.2)
+WNT3
+MDC1B
+No known molecular basis.
+MEGF10
+TRAIP
+WNT4
+HCCS
+ADGRG6
+Caused by deletion (4.06 Mb) of chromosome 14q22.1-q22.3 {UMLS C4013313}
+GPC3
+B1
+LIM
+S26
+SIN3A
+COX7B

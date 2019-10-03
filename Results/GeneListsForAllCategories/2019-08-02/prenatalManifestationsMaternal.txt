@@ -1,0 +1,26 @@
+Gene lists for synopses that have a symptom in prenatalManifestationsMaternal. Scraped 2019-08-02.
+CPT1A
+NOS3
+IA
+G
+PPARG
+PEX11B
+ADGRG6
+V
+PAH
+VANGL1
+No known molecular basis.
+TBC1
+P450
+EP300
+F5
+11B
+HADHB
+HADHA
+POR
+GPR126
+8B
+GPC3
+DHPS
+TBC1D8B
+PEE1
