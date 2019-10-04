@@ -10,6 +10,10 @@ CURRENT_DATE_VERSION = "2019-08-02"
 # import datetime
 # CURRENT_DATE_VERSION = datetime.datetime.now().strftime("%Y-%m-%d")
 
+
+from OMIMapiKey import *
+
+
 import os
 import sys
 import time
