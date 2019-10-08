@@ -1,0 +1,5265 @@
+Gene	Inheritance
+	AR
+MBS1	AD
+ELANE	AD
+AGL	AR
+AGK	AR
+NFIA	AD
+DEL19q13.11d	AD
+RNF13	AD
+SSR4	XLR
+CHD8	AD
+NIPA1	AD
+COX20	AR
+RUBCN	AR
+AGA	AR
+PYCR1	AR
+KHDC3L	AR
+B2M	AR, AD
+DUOXA2	AR
+OFC14	AR
+LIFR	AR
+SCZD2	AD
+DFNA31	AD
+FHII	AD
+IGKC	AR
+AGT	AR, Multifactorial
+ASS1	AR
+TRIO	AD
+Caused by duplication of 0.25 to 1.08 Mb on chromosome 5p13 {UMLS C2750970}	Isolated cases
+DDH2	AD
+G2	AR, X-linked
+G1	AR, AD
+GPR180	AD
+PIK3CA	Somatic, Somatic mutation, Somatic mosaic, AD
+SPR	AR
+SLC28A1	AR
+PRNP	'Slow virus' etiology with  genetic factors, AD
+DUP17q23.1q23.2	AD
+PPNAD4	AD
+CEP164	AR
+ZSWIM6	AD
+CRBN	AR
+SPTLC2	AD
+ZC3H14	AR
+SPTLC1	AD
+IRX5	AR
+GRIN1	AR, AD
+HSPA9	Autosomal dominant (another allele in trans may be required), AR
+C2CD3	AR
+C13	AR
+IQCB1	AR
+CBX2	AR
+ADHD3	AD
+CYP4F22	AR
+XPC	AR
+DEL4q21	Isolated cases
+A contiguous gene syndrome caused by deletion (1.5Mb - 3.0Mb) of 22q11.2 {UMLS C3277699}	AD
+NUP93	AR
+DEL17q11.2	AD
+PPP2R2B	AD
+OPA6	AR
+OPA2	X-linked
+OPA3	AR, AD
+OPA1	AR, AD
+CEP83	AR
+113A	XLD
+OPA8	AD
+PHA2A	AD
+TRAPPC9	AR
+PTRH2	AR
+COL7A1	AR, AD
+CTRC	AD
+JPH3	AD
+FUT1	AR
+C12ORF57	AR
+TRAPPC2	XLR
+DEL19q13.11p	AD
+PRPH	AD
+AMCN	AR
+OFC13	AD
+MAG	AR
+MAF	AD
+CTBP1	AD
+NTHL1	AR
+ADH1C	AD, Probably multifactorial, genetically influenced
+S3	AR
+DFNA33	AD
+ITGA8	AR
+BEN	AD
+ATP2A1	AR
+ATP2A2	AD
+ALDH3A2	AR
+CRB1	AR, Autosomal dominant vs. X-linked
+ITGA2	AD
+ITGA3	AR
+BED	XLR
+ARG1	AR
+EDC3	AR
+ARID1A	AD
+APOA5	AD
+IQSEC2	XLD
+GPRASP2	XLR
+APOA1	AD
+APOA2	AD
+UFSP2	AD
+ATHS	AD
+10B	AR
+TTR	AD
+10A	AR, AD
+CSNK2A1	AD
+SPTA1	AR, AD
+CGF1	X-linked imprinting
+PAM16	AR
+ADRB3	AD
+MYPN	AR, AD
+LSS	AR
+TMEM260	AR
+AP3D1	AR
+NMB	AR
+FIBP	AR
+HYT2	Multifactorial
+CRTAP	AR
+FAM123B	XLD
+MYP8	Multifactorial
+PRSS56	AR
+Contiguous gene syndrome involving deletion of 2.63 Mb on chromosome 5q12 {UMLS C4014135}	AD
+MYP2	AD
+MYP3	AD
+MPV17	AR
+BDMR	AD
+ITGA7	AR
+MYP7	Multifactorial
+MYP5	AD
+COL4A6	XLR, X-linked
+COL4A5	XLD, X-linked
+GCCD3	AR
+COL4A3	AR, AD
+MLLT10	AD
+THCYTX	XLR
+GRN	AR, AD
+HMCN1	AD
+NECAP	AR
+GARS	AD
+CHST6	AR
+TEX15	AR
+RPS6KA3	XLD
+KCNH1	AD
+KCNH2	AD
+SOD-1	AD
+SLC26A3	AR
+NOG	AD
+ATAD1	AR
+KRT17	AD
+SIGMAR1	AR
+TCIRG1	AR
+GSM1	AD
+RAG1	AR
+NR0B2	AD
+TMEM199	AR
+MINPP1	AD
+GBA	AR, AD
+FOXC2	AD
+FOXC1	AD
+TCOF1	AD
+GANAB	AD
+CD40LG	XLR
+SMAD9	AD
+NUP133	AR
+GHRL	AD
+SMAD4	AD
+PIK3CD	AD
+SMAD6	Autosomal dominant (see qualifier below), AD
+KRT16	AD
+VAPB	AD
+ALMS1	AR
+NPHP3	AR
+SC5D	AR
+NPHP1	AR
+NDUFAF6	AR
+NDUFAF1	AR
+NDUFAF3	AR
+FKTN	AR
+IL1RAPL1	XLR
+IGF2R	Somatic mutation
+CTH	AR
+E2T	AR
+SPART	AR
+GDAP1	AR
+GPT2	AR
+ARF1	AD
+FYCO1	AR
+BLM	AR
+SPARC	AR
+KTCN8	AD
+E2A	XLR
+DA10	AD
+WHS	Isolated cases
+GNAO1	AD
+EIF2S3	XLR
+ECTD6	AR
+TUBB2B	AD
+ANIC	AD
+KTCN6	AD
+KTCN5	AD
+PKRL	AR
+SCN11A	AD
+ILDR1	AR
+CDAGS	AR
+MYLK2	AD
+TGM6	AD
+S4	AR
+COX4I2	AR
+PRKAR1A	AD
+V	AR, AD
+SLC22A1L	AD
+SAR1B	AR
+C19orf12	AR
+NOL3	AD
+CFAP300	AR
+LOXHD1	AR
+EDA	XLD, XLR
+COL18A1	AR
+REPS1	AR
+FAM20A	AR
+CCDC114	AR
+No known molecular basis.	Y-linked, Autosomal recessive, sex-influenced, Autosomal recessive vs. autoimmune, Mitochondrial., Genetic, Uncertain., Autosomal recessive, more likely multifactorial, Autosomal dominant with variable expressivity and incomplete penetrance, Multifactorial vs. autosomal or X-linked dominant, Sex-influenced autosomal dominant form, Autosomal dominant vs. X-linked dominant with lethality in hemizygous males, Usually sporadic, Autosomal dominant (15q22-qter), Mendelian, Y-linked (pericentromeric vs. Yq), Familial tendency independent of association with MEN-1, Autosomal dominant (19q13.1-qter), Diabetes teratogenicity, Autosomal dominant;
+Autosomal recessive, Rare familial cases, Autosomal dominant with variable expression and incomplete penetrance, Mitochondrial form, Autosomal dominant with reduced penetrance, Autosomal dominant with variable expressivity, Autosomal recessive not excluded, but probably multifactorial, Autosomal dominant vs. X-linked, Male-limited, autosomal dominant, Male-limited autosomal dominant vs. Y-linked, Autosomal dominant plus dietary factor, XLD, No proved genetic factors, Autosomal recessive vs contiguous gene syndrome, Autosomal recessive vs. new dominant mutant, Autosomal recessive (infantile onset type), Autosomal dominant new mutations, No information on genetics, XLR, Autosomal recessive vs. pseudodominance, Somatic mutation, Autosomal recessive vs. autosomal dominant or multifactorial, X-linked vs. male-limited autosomal dominant, Autosomal dominant vs. polygenic, Autosomal recessive most frequent, autosomal dominant next, and X-linked recessive least frequent, Autosomal recessive with sex limitation, X-linked.  contiguous gene syndrome, Autosomal recessive vs. X-linked dominant, Severe autosomal recessive form, usually dominant, X-linked recessive (Xp21.2-q21.1), Autosomal recessive predisposition, Autosomal dominant somatic cell mutation, Isolated cases, Autosomal recessive and/or mitochondrial, X-linked, severe in males and mild in females, Genetic vs. viral, Autosomal recessive vs. viral or other etiology, Not likely mendelian, but shows familial aggregation, Autosomal dominant gene epistatic to other secondary genes conferring specificity to the autoimmune phenotype, X-linked vs. multifactorial with high male:female sex ratio, Autosomal dominant with sex influence, New dominant mutation with paternal age effect, Sex-limited autosomal dominant, X-linked form, Autosomal dominant vs. autosomal recessive with pseudodominance., Autosomal recessive vs. diabetic neuropathy, Autosomal dominant vs. pseudoautosomal, Autosomal recessive locus for high activity plus probably other loci, Autosomal recessive vs. multifactorial, Possible genetic factors, Autosomal recessive much rarer than X-linked, Familial factors over and above alpha1-antitrypsin, Non-Mendelian,  heritability, Autosomal dominant vs. Y-linked, Autosomal recessive vs. X-linked recessive, Male-limited autosomal dominant, Autosomal dominant with variable expression, Autosomal dominant vs. multifactorial, Most likely multifactorial, Autosomal recessive, dominance not excluded, Autosomal recessive gene accounts for 35% of variability, X-linked (  contiguous gene syndrome), Autosomal dominant for some such as methemoglobinemia, polycythemia, and Heinz body hemolytic anemia, Familial cases reported, but probably not Mendelian, Autosomal dominant vs. multifactorial form, X-linked dominant lethal in hemizygous males vs. autosomal dominant with female influence, No genetic information, X-linked predisposition, X-linked, polygenic influence, No familial case reported, Autosomal dominant, also other autosomal dominant forms, as well as autosomal recessive, and X-linked forms, Autosomal recessive in several families, Autosomal dominant with incomplete penetrance, Autosomal dominant (14q23-q24.2), Autosomal dominant susceptibility (6p23), AD, Polygenic or multifactorial with heritability of 56%, Probably multifactorial, AR, Unclear, Multifactorial, X-linked (Xp22.3), Non-mendelian, Multifactorial vs. autosomal dominant, Autosomal dominant vs. pseudodominance of recessive, Mitochondrial, Autosomal vs. X-linked dominant, Genetic differences in susceptibility to thalidomide are suspected but unproved, Familial aggregation without simple mendelian pattern
+FOXO1	Somatic mutation
+ABCD4	AR
+METTL23	AR
+CD96	AD
+D2HGD	AR
+CORO1A	AR
+ATP1A3	AD
+ATP1A2	AD
+ATP1A1	AD
+CDC45	AR
+DFNA47	AD
+SPG11	AR
+MYMY1	AR
+MJD	AD
+IFIH1	AD
+WNT10B	AR, AD
+MYMY4	XLR
+DHS6S1	AD
+HMGB3	X-linked
+EEF1A2	AD
+FERM	AR, X-linked
+STE24	AR
+SPNS2	AR
+KIAA0125	AR
+ABAT	AR
+CTRCT29	AD
+NAFLD2	Multifactorial
+NAFLD1	Multifactorial
+BIN1	AR
+LOX	AD
+VIPAR	AR
+DAB1	AD
+DDR2	AR, AD
+WDR45B	AR
+ZNF41	XLD
+IFT80	AR
+IFT81	AR
+AASS	AR
+UBTF	AD
+OPHN1	XLR
+KIF4A	XLR
+ACTA2	AD
+IIE	AR
+ARHGEF18	AR
+Caused by mutation in the fumarate hydratase gene (FH	AR, AD
+CDCA7	AR
+IIC	AR
+FIP1L1	Somatic mutation
+TIMM50	AR
+HOMER2	AD
+III	AR, Mitochondrial, AD
+MUC1	AD
+ERMARD	AD
+A	Isolated cases, AD, Digenic recessive, XLD, AR, XLR, X-linked, Somatic mutation
+KISS1R	AR, AD
+IXA	AR
+ATP6V0A2	AR
+DKBI	AD
+MUC7	Autosomal dominant vs. multifactorial
+CD46	AR
+KYNU	AR
+L6	AD
+HIKESHI	AR
+L5	AD
+MCT8	X-linked
+L3	AR
+VMA21	XLR
+L1	AR, XLR
+AGC1	AD
+SP7	AR
+SASH1	AR
+MRX73	XLR
+RAB23	AR
+NIPAL4	AR
+TBL1Y	Y-linked
+CFH	AR, AD
+CFI	AR, AD
+RAB28	AR
+PNP	AR
+GLRA1	AD
+CFB	AD
+CYB5A	AR
+RPS29	AD
+SPG19	AD
+FAR1	AR
+CREBBP	AD
+BRF1	AR
+FAS	AD
+MRX77	XLR
+WDR73	AR
+WDR72	AR
+SPG16	XLR
+CFAP44	AR
+CFP	XLR
+ACP33	AR
+PCK2	AR
+AAAS	AR
+RPL26	AD
+YWHAE	AD
+HAMP	AR
+PPP2R3C	AR, AD
+SHROOM	X-linked
+NQO2	AD
+SPRED1	AD
+FAM58A	XLD
+PTHLH	AD
+PRPF8	AD
+DUP7q11.23	AD
+RCBTB1	AR
+ITF43	AR
+PRPF3	AD
+ARL2BP	AR
+FCP1	X-linked (Xp22.2)
+PRPF4	AD
+PRPF6	AD
+Caused by mutation in the heterogeneous nuclear ribonucleoprotein A1 gene ({164017.0002})	AD
+CMT2H	AR
+SAM	AR, AD
+RGS5	Multifactorial
+SAC	AD
+SIX6	AR
+SAG	AR
+SIX1	AD
+SIX3	AD
+ESRP1	AR
+HSN1B	AD
+CNPY3	AR
+RELN	AR, AD
+PRS	XLR
+NODAL	AD
+SCZD5	AD
+RELB	AR
+RELA	AD
+SCZD6	AD
+SCZD1	AD
+PRX	AR, AD
+SCZD3	AD
+TMEM142A	AR
+TYRP1	AR
+GSTZ1	AR
+ATM	AR, AD
+CHF	AR
+CARD9	AR
+PARS2	AR
+RFC1	AR
+ATG5	AR
+CHM	XLD, XLR
+DFNA48	AD
+FAM92A	AR
+DFNA24	AD
+DFNA27	AD
+MYO3A	AR
+DFNA21	AD
+TREH	AR
+THOC2	XLR
+FCMTE1	AD
+THOC6	AR
+PDE8B	AD
+FKHR	Somatic mutation
+AAA1	Autosomal dominant vs. recessive at an autosomal major locus or multifactorial
+DBH	AR
+ZIC2	AD
+SLC25A42	AR
+SH2B	Somatic mutation
+MANBA	AR
+POMT2	AR
+NGFB	AR
+EYA1	AD
+RFX6	AR
+EOE1	Multifactorial
+NRXN1	AR
+CDON	AD
+XIII	AR
+DNAJC19	AR
+Caused by mutation in the filamin A gene ({300017.0009})	XLD
+MTRR	AR
+SNAP	AR
+APC	AD, Somatic mutation
+KERA	AR
+UQCRC2	AR
+DBT	AR
+TMEM43	AD
+PAK3	XLR
+NUP88	AR
+RECQL4	AR
+GGCX	AR
+IL10RA	AR
+IL10RB	AR
+RECQL2	AR
+AOMS1	AD
+NUP85	AR
+NUBPL	AR
+AOMS2	AD
+PPOX	AD
+PINK1	AR
+CLA3	AR
+MNX1	AD
+MESP2	AR
+CHRNB1	AR, AD
+LHCGR	AR, Sex-limited autosomal dominant
+ATX1	AD
+NLR	AD
+COX14	AR
+CYP2D6	AR
+CRYGC	AD
+HEPHL1	AR
+TREX1	AR, AD
+MFSD2A	AR
+Caused by duplication of 120-527kb on 17p13.3 {UMLS C3808207}	AD
+TRPA1	AD
+TKT	AR
+TTC7A	AR
+KRIT1	AD
+AKR1C2	AR
+TSEN15	AR
+VI	AR, AD, XLR
+TRAF3IP2	AR
+RIEG2	AD
+ZIC1	AD
+KIF14	AR
+IGF2	Autosomal dominant (from paternal allele)
+TCF4	AD
+IGF1	AR
+TOR1AIP1	AR
+TCF3	AD
+DLD	AR
+BVES	AR
+MRE11	AR
+GCK	AD
+NAXD	AR
+ZBTB11	AR
+BBS1	AR
+PIGM	AR
+SEPN1	AR, AD
+TK2	AR
+IGFBP7	AR
+W	AR
+DEL6q11q14	Isolated cases
+PLIN1	AD
+PPM2C	AR
+EPS8L2	AR
+PIGO	AR
+EZH2	AD
+MAK	AR
+SIL1	AR
+LARS	AR
+GJA1	AR, Autosomal recessive vs. multifactorial, AD, Autosomal dominant with variable expression and incomplete penetrance
+HPE1	AD
+CA2	AR
+GJA5	AD
+GJA8	AD
+CPAT1	AR
+GLYCTK	AR
+ATP5F1A	AR
+MEF2C	AD
+GAS8	AR
+MEF2A	AD
+Due to hemizygous deletion of 4p16.3 {UMLS C3277716}	Isolated cases
+FECD2	AD
+BTB	AR, AD
+COX10	AR
+TRIM2	AR
+PROC	AR, AD
+COX15	AR
+BTK	XLR
+PDGFRB	AD
+ASPG2	Isolated cases
+ZNF335	AR
+TMC1	AR, AD
+AMPD3	AR
+AMPD2	AR
+EIF2B4	AR
+EIF2B5	AR
+TMC8	AR
+FOXF1	AD
+SCN10A	AD
+ATPLS	AD
+{104614})	AR
+Caused by mutation in the complement component 5 gene (C5	AD
+PPA2	AR
+TCPT	Isolated cases
+MLF1	AD
+IFT140	AR
+DNAJ	AR
+NUP62	AR
+AGMX2	XLR
+MECOM	AD
+RSPH3	AR
+RSPH1	AR
+{176930.0009})	AD
+TPM2	AD
+TPM1	AD
+EPRS	AR
+MTHFR	AR, AD
+CDKN1C	AD
+STT3B	AR
+CIB1	AR
+MYT1L	AD
+GPSM2	AR
+PIH1	XLR
+STAMBP	AR
+ETFA	AR
+CFHR3	AR, AD
+TGFBR1	AD
+MTMR14	AD
+PHACTR1	AD
+NLGN3	Isolated cases, X-linked
+LRSAM1	AD
+NUP107	AR
+MTO1	AR
+Contiguous gene syndrome caused by 4.3-Mb triplication of chromosome 4q32.1-q32.2 {UMLS C4013752}	AD
+FOXL2	AD
+ITGA6	AR
+ATXN8OS	AD
+ORAI	AD
+TPMT	AR
+Caused by mutation in the complement component 3 gene (C3	AR
+BBS	AR
+C16ORF57	AR
+TJP2	AR, AD
+MDNS	AD
+CYP24A1	AR
+C5ORF42	AR
+LYST	AR
+GORAB	AR
+ASPG1	Isolated cases
+TNFSF6	AD
+TWIST	AD
+MFN2	AR, AD
+HLXB9	AD
+SH3PXD2B	AR
+EOE2	Multifactorial
+TUB	AR
+TRPM4	AD
+MAD2L2	AR
+ADCY1	AR
+AQP5	AD
+Q4	AR
+ABCA3	AR
+DCXR	AR
+SCP2	AR
+PCBD1	AR
+KISS1	AR
+AGRP	AD
+AGRN	AR
+I-branching enzyme gene ({600429.0004})	AD
+BMPER	AR
+NSMF	AD
+PITX2	AD
+SMOC2	AR
+SMARCA2	AD
+CLCNKB	Digenic recessive, AR
+APMR3	AR
+APMR2	AR
+APMR1	AR
+PLPBP	AR
+MIR96	AD
+AXIN2	AD, Somatic mutation
+AXIN1	Somatic mutation
+POU	XLR, AD
+POR	AR
+DYT7	AD
+ZNF9	AD
+DURS1	AD
+TOR1A	AD
+ZAP70	AR
+AAGAB	AD
+NALCN	AR, AD
+CRYBA2	AD
+KANK2	AR
+ST3GAL3	AR
+DNAI1	AR
+HNRNPA1	AD
+ST3GAL5	AR
+RAC1	AD
+SBDS	AR
+GALNS	AR
+FCGR2C	AD
+FCGR2A	AR, AD
+VCP	AD
+CPLX1	AR
+FRTS1	AD
+CTRCT37	AD
+CCCH	AR
+PBX1	AD
+DPH1	AR
+CYP7B1	AR
+AIRE	AR
+SPAST	AD
+NDNC9	AR
+SLC16A1	AD
+CALCR	AD
+KATNB1	AR
+Susceptibility conferred by mutation in the tyrosinase gene ({606933.0008})	AD
+SCGB3A2	Autosomal dominant vs. multifactorial
+MTND5	AR, Mitochondrial
+TUBG1	AD
+ARHGAP31	AD
+GLC1M	AD
+BCKDHB	AR
+CANT1	AR
+BCKDHA	AR
+PTCH2	AD, Somatic
+DCAF8	AD
+GLC1C	AD
+TUFM	AR
+DFNB45	AR
+DOLK	AR
+DUPC1	AD
+DFNB46	AR
+KMT5B	AD
+UNG	AR
+MASP2	AR
+CD36	AR
+ERGIC1	AR
+GNAS-AS1	AD
+CCCSX	XLR
+POLR3B	AR
+POLR3A	AR
+PAH	AR
+APCDD1	AD
+TXNDC3	AR
+UQCRB	AR
+IDDM15	Susceptibility locus for IDDM
+MORC	AD
+SPG27	AR
+SPG25	AR
+IGF2BP2	AD
+CALM2	AD
+CORD17	AD
+SPG21	AR
+CALM1	AD
+CACNA1A	AD
+CACNA1B	AR, AD
+CACNA1C	AD
+THRB	AR, AD
+DCC	AR, Somatic mutation, AD
+CACNA1F	XLR, X-linked, X-linked form
+SYCP3	AD
+DARS	AR
+TAF4B	AR
+DCX	X-linked
+GLRX5	AR
+BRDT	AR
+SOBP	AR
+WDR60	AR
+CACNA1S	AD
+DCR	Isolated cases
+C19ORF12	AR
+TTN	AR, AD
+FLCN	AD, Somatic mutation
+SFRP4	AR
+PNKP	AR
+HMGCL	AR
+CLCN2	AR, AD
+SLC25A1	AR
+CDH23	AR, AD
+CLCN7	AR, AD
+PRMT7	AR
+CLCN5	XLR
+PLK4	AR
+TECPR2	AR
+PER2	AD
+FLRT3	Autosomal dominant (see MISCELLANEOUS below)
+PNKD	AD
+ZNF513	AR
+GFAP	AD
+X	AR, XLD, AD, X-linked, XLR
+LZTFL1	AR
+CVMRF	XLR
+B56)	AD
+TRPS2	AD
+GDAP2	AR
+AKT1	AD, Somatic mutation
+TMEM216	AR
+KIF5A	AD
+PTPN11	AD
+KIF5C	AD
+PQBP1	XLR
+ARCN1	AD
+PTPN14	AR
+SRD5A2	AR
+PLCD1	AD
+MAGEL2	AD
+AKT3	AD
+XVII	AR, AD
+TYROBP	AR
+PIGY	AR
+KIF1BP	AR
+TTC19	AR
+CD3E	AR
+CTAA2	AD
+CD3G	AR
+CSF2RB	AR
+CDAN1	AR
+ACADS	AR
+DMD	XLR, X-linked
+DER22t11-22	Inherited chromosomal imbalance
+H19	Autosomal dominant (loss of paternal allele), AD
+L15	AD
+HSPG2	AR
+ANOP1	XLR
+L11	AD
+DNAJC21	AR
+C4orf26	AR
+LARGE	AR
+UPB1	AR
+GCGR	AD
+MYP9	Multifactorial
+NBEAL2	AR
+HABP2	AD
+MAFA	AD
+DFNA18	AD
+NDRG1	AR
+ACADM	AR
+SIPA1L3	AR
+IARS2	AR
+PPM1D	AD
+RFX5	AR
+PPM1B	AR
+USP45	AR
+FGD4	AR
+EGR1	AR
+TBCD	AR
+ND4L	Mitochondrial
+PPARGC1B	AD
+XDH	AR
+DNAJB13	AR
+TPRN	AR
+DNAJB11	AD
+HLA-DQB1	AR, AD, Multifactorial
+5C	AD
+KIF7	AR
+TMEM70	AR
+FWS	AR
+CHEK2	Somatic mutation, AD
+K	AR, AD
+HOXA2	AD
+CISD2	AR
+FGG	AR
+C	Autosomal dominant (incomplete penetrance), AR, XLD, AD, Multifactorial
+UPF3B	XLR
+INF2	AD
+UMPS	AR
+SGSH	AR
+PAX4	Autosomal dominant (in 1 patient), AD
+PAX7	Somatic mutation
+PAX6	AD
+PAX1	AR
+MRPL3	AR
+PAX3	AD, Somatic mutation
+PAX2	AD
+PTPN1	AD
+KCNQ1	AR, AD
+PAX9	AD
+PAX8	AD
+PKD1L1	AR
+MGP	AR
+GINS1	AR
+Caused by mutations in the ceruloplasmin gene (CP	AR
+PROK2	AD
+DMLX2	AD
+ACAD9	AR
+EDS8	AD
+PSA	AD
+SGCA	AR
+FAME3	AD
+ATP8A2	AR
+ZP1	AR
+COL4A4	AR, AD
+GJA3	AD
+RBCK1	AR
+DFNA59	AD
+KRT6A	AD
+MOG	AD
+ZP3	AD
+ZFYVE26	AR
+AICAR	AR
+Contiguous gene syndrome resulting from hemizygous deletion 1.5 - 1.8 Mb on 7q11.2 {UMLS C4231316}	AD
+AGBL5	AR
+ETV	AD
+PPP1R17	AD
+SLC20A2	AD
+MYO1E	AR
+SH2D1A	XLR
+MSRB3	AR
+CTDP1	AR
+RPS7	AD
+ADAMTS10	AR
+ADAMTS13	AR
+MRX23	X-linked
+DEL1p36	Isolated cases
+BULN	Multifactorial
+ADAMTS17	AR
+IL31RA	AD
+CLDN19	AR
+ADAMTS18	AR
+DEL18p	AD
+DEL18q	AD
+CD79B	AR
+MEOX1	AR
+BCR	Somatic mutation
+CD79A	AR
+SLC52A1	AD
+SLC52A3	AR
+SLC52A2	AR
+CTPS1	AR
+MYP1	XLR
+TACR3	AR
+BDA1B	AD
+HOXA13	AD
+GPNMB	AR
+EKD2	AD
+S14	AR, Somatic mutation
+SLC6A19	AR, AD
+SLC34A2	AR
+CDK6	AR
+OBSL1	AR
+ERCC1	AR
+C3	AD
+C2	AR, AD
+C1	AR, AD, XLR
+DSG1	AR, AD
+SLC6A17	AR
+PNPT1	AR
+DSG4	AR
+GALT	AR
+SRC	AD, Somatic mutation
+HMGCS2	AR
+PDHA1	XLD
+COL4A3BP	AD
+ERCC4	AR
+IHPS1	AD
+PRKN	AR, Somatic mutation
+GALE	AR
+AUTS1	Isolated cases
+FXYD	AD
+GALC	AR
+ATXN10	AD
+SRY	Y-linked, XLD, AD
+SFTPC	AD
+GNAS1	Somatic mosaicism, AD, Somatic mutation
+TCAP	AR, AD
+KCNJ2	AD
+KCNJ1	AR, AD
+KCNJ6	AD
+KCNJ5	AD
+CYP17A1	AR
+EIF2AK3	AR
+EIF2AK4	AR
+TAPBP	AR
+ADRB2	Autosomal dominant vs. multifactorial, AD
+MRPS14	AR
+COL1A2	AR, AD
+AGPAT2	AR
+COL1A1	AD
+ELN	AD
+SEPT12	AD
+TRNT1	AR
+HLCS	AR
+DPY19L2	AR
+OCRL	XLR
+OR2J3	AD
+MCM3AP	AR
+VARS	AR
+FCGR3A	AR
+Caused by a 1.35-Mb duplication of chromosome 1q21 {UMLS C2675894}	AD
+ECM1	AR
+SLCO1B1	Digenic recessive
+SLCO1B3	Digenic recessive
+L27	AD
+MPDU1	AR
+KIAA1033	AR
+FMR1	XLD, X-linked
+PEX10	AR
+PEX13	AR
+PEX12	AR
+PEX14	AR
+GCDH	AR
+PEX16	AR
+AP3B1	AR
+PRICKLE1	AR
+GRID2	AR
+AP3B2	AR
+P2	AD
+D4Z4	AD
+GCNT2	AR, AD
+CFAP53	AR
+RPL27	AD
+TAC3	AR
+RPL21	AD
+CATSPER1	AR
+CATSPER2	AR
+V0	AR
+V1	AR, AD
+FTCD	AR
+DICER	AD
+MTTL1	AR, Mitochondrial
+P3H1	AR
+SLC16A12	AD
+EYA4	AD
+SPINK5	AR
+MTAP6	Mitochondrial
+Full trisomy 21	Isolated cases
+SPINK2	AR
+SPINK1	AD
+ZNF423	AD
+VA	AR
+CNTNAP2	AR
+PIGC	AR
+SMARCB1	AD
+PIGG	AR
+PIGH	AR
+PIEZO2	AR, AD
+PIEZO1	AR, AD
+PIGL	AR
+HADH	AR
+PIGN	AR
+HPT	X-linked
+PIGP	AR
+TAPT1	AR
+PIGS	AR
+PIGT	AR, AD
+PIGV	AR
+PIGW	AR
+Y	XLD, AR
+EPCAM	AR
+SPAG1	AR
+EMC1	AR
+HPD	AR, AD
+OSGEP	AR
+ANKLE2	AR
+PPP1CB	AD
+HYPT9	AR
+SERPINB8	AR
+Caused by duplication of 300kb (Chr12:64,803,839-65,098,981 (GRCh37)) on 12q14 {UMLS C3805908}	AD
+BBIP1	AR
+CCDC174	AR
+FAM134B	AR
+RAD54L	AD
+PDK3	XLD
+PDE11A	AD
+EBP	XLD, XLR
+RDH11	AR
+RDH12	Autosomal dominant (in one RP53 family)
+COL6A1	AR, AD
+WBP2	AR
+COL6A3	AR, AD
+COL6A2	AR, AD
+SEC61A1	AD
+HAVCR2	AR
+ALPL	AR, AD
+THAS	X-linked
+RAB3	AR
+THAP	AD
+FXYD2	AD
+NMTC3	AD
+RAB7	AD
+NDUFAF4	AR
+MLSM7	AR
+CCNQ	XLD
+SPG3A	AD
+PUF60	AD
+NCF1	AR
+DMGDH	AR
+MYH14	AD
+MAFB	AD
+PHKB	AR
+5A	AR, AD
+Caused by deletion of at least 600kb in 10q26.2 {UMLS C2750384}	AD
+Caused by mutation in the collectin 11 gene ({612502.0001})	AR
+5B	AR, AD
+SLC39A13	AR
+SLC39A14	AR, AD
+USH1K	AR
+CEP120	AR
+RBPJ	AD
+PFKM	AR
+NTRK2	AD
+SLC34A1	AR, AD
+LRPAP1	AR
+SLC34A3	AR
+EVI1	AD
+ARHGAP26	AD
+S2	AR
+ABCB7	XLR
+YY1AP1	AR
+DUP17q12	AD
+{157140})	AD
+BLNK	AR
+CD8A	AR
+MLYCD	AR
+TDRD9	AR
+D	AR, AD, Autosomal dominant (see MISCELLANEOUS below), XLR
+MRPS7	AR
+PARK2	AR
+MED17	AR
+TDRD7	AR
+VPS45	AR
+S6	XLD, AR
+TSEN54	AR
+RBP3	AR
+RBP4	AR, AD
+MYSM1	AR
+PPIB	AR
+AD10	AD
+HNFJ3	AD
+UBR1	AR
+Caused by mutation in the homolog of the mouse T brachyury gene (T	AR
+NANS	AR
+KRAS	Somatic mosaicism, AD, Somatic mutation
+LECD	XLD
+NDUFAF5	AR
+SPG32	AR
+BMP4	Familial predisposition, AD
+SPG34	XLR
+BMP2	AR, AD
+BMP1	AR
+SPG37	AD
+SPG38	AD
+ARPC1B	AR
+SGO1	AR
+ACSL4	XLD
+FAT2	AD
+Linked to a locus at 16q. {UMLS C1860266}	AD
+ED1	XLR
+FAT4	AR
+SMPX	XLD
+REN	AR, AD
+GFPT1	AR
+EIF4G1	AD
+UQCC3	AR
+CCNK	AD
+Susceptibility conferred by contiguous gene deletion (26-600kb) on chromosome 11p13 {UMLS C4314336}	AD
+LRAT	AR
+DFNB17	AR
+DFNB14	AR
+RASSF1	Somatic mutation
+TRIM32	AR
+RPL5	AD
+KCNQ1OT1	AD
+TRIM36	AR
+HT	AD
+OB	AR
+DEL2p21	AR
+NHP2	AR
+HYSP3	AD
+A contiguous gene syndrome caused by deletion of 180kb encompassing 18 genes on chromosome 17p13.1 {UMLS C3279171}	AD
+KREMEN1	AR
+HD	AR, AD
+CHD1	AD
+CHD3	AD
+MRX2	X-linked
+FYVE	AR, AD
+UROC1	AR
+LRRK2	AD
+PTH	AD
+TSC2	Somatic mutation, AD
+NOTCH1	AD
+INVS	AR
+KIAA0586	AR
+ABHD12	AR
+HINT1	AR
+NPC2	AR
+COL27A1	AR
+SKIV2L	AR
+CHDT3	AD
+Caused by mutation in the Kell blood group protein gene (XK	X-linked
+SULF1	AD
+CHRM3	AR
+PTS	AR
+RFH1	AD
+NDUFAF2	AR
+CRYM	AD
+RAB3GAP2	AR
+IL4R	AD
+HDCPH1	AD
+PIKFYVE	AD
+MN1	AD
+ADCY3	AR
+RNF43	AD
+TTC8	AR
+DHX30	AD
+ANKRD26	AD
+CLMP	AR
+RHOH	AR
+1D	AD
+DAG1	AR
+SF3B4	AD
+TMPRSS15	AR
+ITPR2	AR
+ITPR3	Autosomal recessive susceptibility
+EFHC1	AD
+ITPR1	AD
+CHDM	AD
+SCZD10	AD
+ETHE1	AR
+SCZD12	AD
+TMEM67	AR
+IL1RN	AR, AD
+ABCG2	AD
+CCNO	AR
+PRDM12	AR
+ABCG5	AR
+MTTE	Mitochondrial
+TLK2	AD
+MPN	AR
+MPO	AR, AD
+MPL	AR, Somatic mutation, AD
+AMPA	AD, XLR
+HNF4A	AD, Autosomal dominant (20q12-q13.1)
+MPI	AR
+PRODH	AR, AD
+ITM2B	AD
+ERCC6L2	AR
+MTTP	AR, AD
+SNCB	AD
+ELP1	AR
+TARS2	AR
+SNCA	AD
+KBTBD13	AD
+RNF125	AD
+AIFM1	XLR
+MPZ	AR, AD
+9C	AR
+IL17RA	AR
+S27	AD
+MCPH1	AR
+DFNB13	AR
+GAMT	AR
+TNFRSF11B	AR
+ACAN	AR, AD
+OFC1	AD
+POT1	AD
+SLC36A2	AR, AD
+GJA12	AR
+B12	AR
+P2RY12	AR
+SACS	AR
+B11	X-linked
+MUC5B	AD
+HPGD	AR
+NLGN4X	X-linked
+SCAPER	AR
+TEK	AD
+FZD4	AD
+FZD6	AR
+4D	AD
+AGTPBP1	AR
+Caused by deletion of 539.77kb (GRCh37 chr8 77226464-77766239) on chromosome 8q21.11 {UMLS C3280238}	AD
+TEC	AR
+HSCR5	AD
+CTNNA1	AD
+L21	AD
+HESX1	AD
+ING1	AR
+NECTIN1	AR
+NBN	AR
+NECTIN4	AR
+L26	AD
+SRD5A3	AR
+NFKB1	AD
+NFKB2	AD
+DHCR24	AR
+EBF3	AD
+B3GALNT2	AR
+Caused by duplication of at least 325kb on 10q24 {UMLS C3278443}	AD
+Contiguous gene syndrome caused by 6-Mb duplication of 15q11-q13 {UMLS C4013203}	AD
+HELLS	AR
+ASH1L	AD
+1B3	Digenic recessive
+DNA	Autosomal dominant (loss of paternal allele), AR, Mitochondrial, XLR, AD
+ADP	AR
+PCOS1	AD
+TRIM37	AR
+DDRGK	AR
+CACNA1D	AR, AD
+CA8	AR
+G6PC3	AR
+AT3	AD
+ADA	AR
+HIST1H1E	AD
+ADK	AR
+ATCAY	AR
+SOS1	AD
+PKD2	AD
+PKD1	AD
+GJC2	AR, AD
+CACNA1E	AD
+ZIC3	XLR
+PRKACG	AR
+PRKACA	AD
+PSMB8	AR
+CYP2U1	AR
+TMEM237	AR
+PSMB4	AR
+TMEM231	AR
+ABCB6	AD
+HIVEP2	AD
+JAGN1	AR
+EOGT	AR
+SPG7	AR
+MCC	Somatic mutation
+TUPLE1	AD
+UBB	AD
+ACKR1	AR, AD
+OVOL2	AD
+PCCB	AR
+GNAT1	AR, AD
+P2RX2	AD
+DEL8q13	AD
+MBL2	AD
+LALL	Acquired specific neoplasm by autosomal recessive mechanism through somatic cell mutation
+PHOX2B	AD
+Caused by mutation in the glycerol kinase gene (GK	XLR
+KCNK4	AD
+ESCO2	AR
+HADHA	AR
+MLH3	Somatic mutation
+CRY1	AD
+MLH1	AR, AD
+KCNK3	AD
+CTU2	AR
+MAN1B1	AR
+VPS13D	AR
+MSX2	AD
+EAR	AR
+HSD11B2	AR
+SH3KBP1	XLR
+VPS13C	AR
+VPS13B	AR
+GATAD2B	AD
+E	AR, AD, XLR
+KIAA0556	AR
+TRAF7	AD
+SHOX	AR, AD
+NUP160	AR
+TMPRSS3	AR
+ALS2	AR
+ALS3	AD
+TMPRSS6	AR
+SLC35A2	XLD
+EA8	AD
+LRRC50	AR
+CHD2	AD
+LRRC56	AR
+BBS5	AR
+TCTEX1D2	AR
+EA3	AD
+FOXN1	AR
+EA7	AD
+ABCC11	AD
+KIAA0226	AR
+CECR	AD
+CHD7	AD
+SLC16A2	X-linked
+DEPDC	AD
+PMVK	AD
+PFBI	AR
+DSPS	AD
+ASXL1	AD
+GRIN2A	AD
+KLHDC8B	AR
+EMG1	AR
+GNA11	Autosomal dominant with locus heterogeneity (19p13.3), AD
+SDHA	AR, AD
+SDHC	AD
+SDHB	AD
+SDHD	AR, AD
+PPCS	AR
+SH2B3	AD, Somatic mutation
+TAP1	AR
+TAP2	AR
+GLC3B	AR
+BUB1B	AR, AD, Somatic mutation
+SUMO1	Isolated cases
+TMCO1	AR
+FKBP14	AR
+USP9X	XLD, XLR
+NYS7	AD
+EOS	AD
+MOCS2	AR
+MOCS1	AR
+SBF2	AR
+ATXN2	AD
+L1CAM	XLR
+ATP11C	XLR
+NOTCH	AD
+ALG12	AR
+SLC2A2	AR, AD
+BLOC1S6	AR
+DLG3	XLR
+LHX3	AR
+BLOC1S3	AR
+ACTG2	AD
+CDC73	AD
+ADSSL1	AR
+LCS1	AR
+LINS1	AR
+P5CDH	AR
+SMOC1	AR
+F1	AR, AD
+DUP22q11.2	AD
+Contiguous gene syndrome caused by deletion (2.2 Mb) of chromosome 17q23.1-q23 {UMLS C3150615}	Isolated cases
+HYT3	Multifactorial
+Caused by a trinucleotide repeat expansion CAG(n) in the androgen receptor gene (AR	XLR
+PDE6C	AR
+HTR2A	AD, Probably multifactorial, genetically influenced
+LMBRD1	AR
+NADK2	AR
+CA4	AD
+HPFH2	AD
+IGF1R	Isolated cases, AD
+DFNM1	AD
+LHB	AR
+CAAX	AD
+TPM3	AD
+POLR1A	AD
+TAS2R16	AD, Probably multifactorial, genetically influenced
+ETL3	AD
+PTDSS1	AD
+SLC38A8	AR
+CAMK2B	AD
+SLC45A2	AR
+OCA5	AR
+RDH5	AD
+SRXY10	AD
+COQ8B	AR
+CSF3R	AR, AD
+OCA2	AR
+OSBPL2	AD
+ATL3	AD
+CYP3A5	Multifactorial
+SHFM3	AD
+SHFM2	X-linked (Xq26)
+SHFM1	AD
+member 3 gene ({609826.0001})	AR
+STIL	AR
+HCN1	AD
+TUBB4B	AD
+TUBB4A	AD
+HCN4	AD
+HMSN5	AD
+RAB27A	AR
+APOC2	AR
+DFNB83	AR
+EVH1	AD
+MTTC	Mitochondrial
+AR	Somatic mutation
+SLC30A8	AD
+IL7R	AR
+SMC1A	XLD
+CMM	AD
+FAM20C	AR
+NFU1	AR
+TNFRSF13B	AR
+LRIT3	AR
+CHST8	AR
+HYOU1	AR
+TMEM98	AD
+PRSS2	AD
+ANO3	AD
+M4	AR
+Caused by a 260-kb duplication on chromosome 11q12.2-11q12.3. {UMLS C3149541}	AD
+POLR1C	AR
+IMPAD1	AR
+TANGO2	AR
+DYNC1I2	AR
+M2	AR, AD
+TMEM132E	AR
+COL3A1	AR, AD
+STIP1	AR, AD
+CCDC111	AD
+HHT4	AD
+MC4R	Autosomal dominant Autosomal recessive, AD
+ATX2	AD
+CHIC2	AD
+BMS1	AD
+WDR45	XLD
+OFC3	AD
+RAB3GAP1	AR
+PEPD	AR
+TBC1D23	AR
+LTC4S	AR
+TBC1D20	AR
+JAK2	AR, AD, Somatic mutation
+JAK3	AR
+ATR	AR, AD
+TBC1D24	AR, AD
+TNFRSF4	AR
+TNFRSF5	AR
+GRM6	AR
+TNFRSF7	AR
+DUH1	AD
+GRM1	AR, AD
+IFNGR2	AR
+ALPK3	AR
+GUCY2C	AR, AD
+GUCY2D	AR, AD
+DST	AR
+HOXB1	AR
+DSP	AR, AD
+TP53RK	AR
+PPARG	AD
+Contiguous gene syndrome caused by mosaicism for tetrasomy of chromosome 12p {UMLS C4012618}	Somatic mosaicism
+CLCN1	AR, AD
+TMEM94	AR
+GLMN	AD
+THBD	AD
+DSE	AR
+FSIP2	AR
+DCDC2	AR
+FOXD3	AD
+IFNG	AD
+F7	AR
+POC1B	AR
+PTF1A	AR
+DNAJC6	AR
+IGAN1	AD
+HES7	AR
+INS	AD
+C8A	AR
+CNGB1	AR
+RWS	AD
+TTC37	AR
+GUST	X-linked (Xq26)
+SLC18A3	AR
+SLC18A2	AR
+CCND2	AD
+CDC42	AD
+Caused by mutation in the coagulation factor 2 gene (F2	AD
+CNGB3	AR
+CD19	AR
+SWIM	AD
+ACP5	AR
+HMX1	AR
+MAP3K1	AD
+ACP2	AR
+PKHD1	AR
+SNIP1	AR
+GLA	X-linked
+GLB	AR
+ARFGEF2	AR
+Caused by a 1.37Mb deletion on 4q21 encompassing 5 genes {UMLS C3278924}	Isolated cases
+C8B	AR
+SLC2A10	AR
+MKRN3	AD
+{601397})	AD
+RORA	AD
+LHFPL5	AR
+FKBP10	AR
+SAR1	AR
+NNO1	AD
+ETL4	AD
+TBC1	AR, AD, X-linked
+HSR	Autosomal dominant vs. multifactorial
+ACO2	AR
+Contiguous gene syndrome caused by homozygous deletion of approximately 122Kb on chromosome 11p15-p14 {UMLS C1847870}	AR
+SCZD11	AD
+NT5C3A	AR
+GNASAS	AD
+NR2F2	AD
+ATOH7	AR
+BHLHB3	AD
+ACAT2	Isolated cases
+12S	Mitochondrial
+DDB2	AR
+MECR	AR
+Caused by mutation in the Rho guanine nucleotide exchange factor-6 gene ({300267.0001})	XLR
+MCOP1	AR
+KIF21A	AD
+GP9	AR
+P4HTM	AR
+PRDM16	AD
+IARS	AR
+BBS9	AR
+F	AR, AD
+AUH	AR
+ZNF81	X-linked
+MARVELD2	AR
+CEP41	AR
+ATP5F1D	AR
+SUGCT	AR
+FRMPD4	X-linked
+LDLR	AD
+MEHMO	XLR
+EVC	AR, AD
+13A2	AR
+MAX	AD
+HCRT	AD
+Caused by mutation in the kyphoscoliosis peptidase gene (KY	AR
+Caused by a deletion of 11q23 {UMLS C3276957}	Isolated cases
+LRIG2	AR
+CYP2C9	AD
+IL2RA	AR, Autosomal locus and allelic heterogeneity
+IL2RB	AR
+TBCK	AR
+SLC17A9	AD
+RAB33B	AR
+AK2	AR
+AK1	AR
+IL21R	AR, AD
+LIS1	AD
+MTTK	AR, Mitochondrial
+LRMDA	AR
+SLC17A3	AD
+ME2	AD
+H2	AR, XLD
+ATP13A2	AR
+MRAP2	AD
+CDK5RAP2	AR
+SARS	AR
+SMARCAD1	AD
+PRKD1	AD
+AHSG	AR
+IBA57	AR
+ERBB2	Somatic mutation, AD
+H1	AR, AD
+MYF5	AR
+ITCH	AR
+FMO3	AR
+DHFR	AR
+AVP	AD
+CHMP4B	AD
+NUS1	AR, AD
+BAX	Somatic mutation
+PLCG2	AD
+ERF	AD
+BSND	AR
+ERA	AR
+EPS8	AR
+CHST3	AR
+TRMU	AR, Mitochondrial
+COL5A1	AD
+LARS2	AR
+ERAL1	AR
+GPI	AR
+DNAL4	AR
+PPR1	AD
+GFI1B	AD
+PEX26	AR
+SLC37A4	AR
+LPIN1	AR
+GJB1	XLD
+CAG	AD
+GJB3	AR, AD
+GJB2	AR, AD
+KLHL41	AR
+FAM126A	AR
+GJB6	AR, AD
+GPR126	AR
+KLF6	Somatic mutation
+LTBP4	AR
+GZF1	AR
+SELENON	AR, AD
+KLF1	AD
+ST3	AR
+ATP6V1B1	AR
+ATP6V1B2	AD
+GEFSP4	AD
+IDH1	AD
+MTTV	AR
+CANDF1	AD
+HEATR2	AR
+RBM20	AD
+DEL17p13.1	AD
+MTTH	Mitochondrial
+HAD	AR
+SLC24A4	AR
+HYPT5	AD
+FBN2	AD
+REST	AD
+FBN1	AD
+CCDC78	AD
+STS	XLR
+CYP19A1	Male-limited autosomal dominant vs. autosomal recessive or X-linked
+TRIP11	AR
+TRIP12	AD
+TRIP13	AR
+MMP21	AR
+ASCC1	AR
+P2RY5	AR
+POU1F1	AD
+SLC25A22	AR
+IL17RD	Autosomal dominant (see MISCELLANEOUS below)
+TCTEX1	AR
+IFT172	AR
+TFG	AR, AD
+DPYD	AR
+BAAT	AR
+THM	AR
+NUP37	AR
+PLAG1	Somatic mutation
+OGDH	AR
+SCN1B	AR, AD
+PET100	AR
+SCN1A	AD
+SLC1A4	AR
+CYP11B2	AR, AD
+CYP11B1	AR, AD
+FUCA1	AR
+SLC1A2	AD
+DNAL1	AR
+SCZD8	AD
+TGM1	AR
+GRHPR	AR
+DEL15q15.3	AR
+TGM5	AR
+SFTPB	AR
+KDM1A	AD
+LIM	XLD, AD, X-linked, XLR
+TSG101	AD
+SPTB	AD
+VCL	AD
+CLDN10	AR
+IKBKB	AR, AD
+DOCK6	AR
+SOST	AR, AD
+IKBKG	XLD, XLR
+LMAN1	AR
+FOXI1	AR
+FEZF1	AR
+TMEM173	AD
+GD5	AD
+DPYS	AR
+RARB	AD
+ACE	AR
+SBF1	AR
+RAI1	AD
+TSFM	AR
+TMEM107	AR
+ACD	AD
+VAMAS6	Epistatically interacting multiple autosomal recessive
+ADRA2B	AD
+SETD5	AD
+RE	AD
+RARS	AR
+MIPEP	AR
+RA	Unproved inheritance
+Caused by mutation in the pyruvate carboxylase gene (PC	AR
+DYRK1A	AD
+MKKS	AR
+DYRK1B	AD
+MTMR2	AR
+ENFL2	AD
+WT1	AD, Somatic mutation
+FASTKD2	AR
+WT3	AD
+WT4	AD
+PLBP	AR
+FAMILY	AD
+KIZ	AR
+NR3C2	AD
+DHTKD1	AR, AD
+CXDUPq26.3	XLD
+HLA-DRB1	AD, Multifactorial
+SMARCAL1	AR
+IMPA1	AR
+CCDC151	AR
+PHGDH	AR
+USH3A	AR
+SNAI2	AR, AD
+UFC1	AR
+KITLG	AD
+NME1	AD
+MUTYH	AR, Somatic mutation
+JAG1	AD
+COG1	AR
+SLC2A9	AD
+SYT1	AD
+SYT2	AD
+CD40	AR
+PLCZ1	AR
+TRAIP	AR
+SLC2A1	AD
+ECHS1	AR
+MHS3	Autosomal dominant form (unlinked to 19q or 17q)
+RHO	AD
+PLAGL1	Autosomal dominant (loss of maternal allele)
+C15ORF41	AR
+CCL2	AD
+CAVIN1	AR
+NOBOX	AD
+Caused by deletion (4.06 Mb) of chromosome 14q22.1-q22.3 {UMLS C4013313}	AD
+TENM4	AD
+ECTD8	AR
+COLQ	AR
+EXOSC8	AR
+EXOSC9	AR
+CEP104	AR
+EXOSC2	AR
+VANGL1	AD
+VANGL2	AD
+P2Y	AR
+P2X	AD
+AMELX	XLD
+Contiguous gene syndrome caused by deletion of 3.2Mb deletion on 8q22.1 {UMLS C4013145}	AD
+COG7	AR
+HCCS	XLD
+GTF2E2	AR
+TUBB6	AD
+XXVIIA	AR
+ADAMTSL4	AR
+EPRPDC	AR
+CYB561	AR
+TULP1	AR
+SHFL1	AD
+Linked to a locus at 7p15-p11.2. {UMLS C1832100}	AD
+MAFD1	AD
+MRT35	AR
+DISC2	AD
+MADS	AD
+Caused by mutation in the thyroglobulin gene (TG	AR
+TACSTD2	AR
+LMPH1B	AD
+Caused by interstitial or terminal deletion of chromosome 18q {UMLS C1866209}	AD
+COA7	AR
+DRC1	AR
+SLC46A1	AR
+CRB2	AR
+COA6	AR
+G	AR, XLR, X-linked, AD
+ENG	AD
+STBMS1	Familial, but no simple Mendelian inheritance established
+Contiguous gene syndrome caused by deletion (0.3 to 5.6 Mb) of chromosome 1p35 {UMLS C4693671}	AD
+ZFPM2	AD
+CA12	AR
+C5orf42	AR
+AD5	AD
+COA3	AR
+F12	AR, AD
+F10	AR
+HNRNPDL	AD
+ASPM	AR
+CRYBB2	AD
+A contiguous gene deletion syndrome involving deletion of 1.4Mb on chromosome 17q11.2 {UMLS C3279073}	AD
+G6PT1	AR
+ACOX1	AR
+MMTV	AR, AD
+TELAB1	AD
+PCDH12	AR
+SARDH	AR
+ARMC2	AR
+SLX4	AR
+ALKBH8	AR
+GPR98	AR
+VPS53	AR
+MIFT	AR
+PCDH19	X-linked
+GUCA1A	AD
+CDKAL1	AD
+KRT74	AR, AD
+ATD	AR
+DUP2q35	AD
+GNAI2	AD
+TMEM126A	AR
+TMEM126B	AR
+MDBS2	AD
+MOCOS	AR
+DLX4	AD
+SCYL1	AR
+1A	AR, XLD, AD, XLR
+PHOX2A	AR
+1C	AR, AD, XLR
+1B	AR, AD
+SMPD1	AR
+HAAO	AR
+ATP	AR, Mitochondrial
+BRIP1	AD
+FLT4	AD
+CACNB4	AD
+FLT3	AD
+SLC24A5	AR
+OSTM1	AR
+DEL6pter	Isolated cases
+SET	AD
+CYP1B1	AR
+HTGH	AR
+DNAJB2	AR
+ATP5A1	AR
+HFE2	AR
+VKORC1	AD
+DNAJB6	AD
+SLC45A1	AR
+HMS1	X-linked (Xq28)
+FANCE	AR
+MRX92	XLR
+FANCC	Autosomal recessive with at least two loci and multiple alleles
+FANCB	XLR
+Linked to locus at 17q12-q21. {UMLS C1832427}	AD
+TTC25	AR
+FANCM	AR
+FANCL	AR
+PATL2	AR
+FANCI	AR
+CA5A	AR
+SAS6	AR
+COL25A1	AR
+PDZ	AR, X-linked
+THAP1	AD
+F13B	AR
+MIR184	AD
+GUSB	AR
+PCDH15	AR
+IMP	AD
+ELMOD3	AR
+ENO3	AR
+FGF12	AD
+Contiguous gene syndrome caused by minimum 660kB deletion within a hotspot on chromosome 15q25.2-q25.3 {UMLS C4229691}	AD
+COL17A2	AR
+Susceptibility conferred by a duplication on chromosome 15q13-q14	AD
+COL17A1	AR, AD
+HYAL1	AR
+BPPV	AD
+FAM65B	AR
+SLC22A18	AR, Somatic mutation, AD
+ACOX2	AR
+IS1	Autosomal dominant vs. multifactorial
+KNG1	AR
+SLC22A12	AR
+IRS1	AD
+IRS2	AD
+FGF16	XLR
+HNRNPH2	XLD
+TRAPPC6B	AR
+CDK4	AD
+CDK5	AR
+NSMCE2	AR
+NSMCE3	AR
+IGLL1	AR
+FAME4	AD
+LPAR6	AR
+CALR	AD, Somatic mutation
+MRX20	X-linked
+ADFN	X-linked
+MAPKBP1	AR
+MATR3	AD
+MYP18	AR
+1B1	Digenic recessive
+DZIP1L	AR
+MSH2	AR, AD
+CEP55	AR
+MSH5	AR
+MSH6	AR, AD
+LIMS2	AR
+BPP	XLD
+TMIE	AR
+FRIASS	AD
+CUL3	AD
+TAPVR1	AD
+ANOS1	XLR
+SCA4	AD
+DR	AD
+ODC1	Somatic mutation
+SMAD	AR
+MSX1	AD
+RERE	AD
+20S	XLR
+RELT	AR
+DEL8q12q21	Autosomal dominant contiguous gene syndrome
+XPA	AR
+INPPL1	AR
+DDHD1	AR
+ADCK4	AR
+DDHD2	AR
+ADCK3	AR
+SZT2	AR
+SUN5	AR
+RIPK1	AR
+HSPD1	AR, AD
+SCN2A	AD
+MTPAP	AR
+DNAJC13	AD
+NFKBIL1	Unproved inheritance
+TECRL	AR
+USH1C	AR
+ENDO1	AR
+XPR1	AD
+RLIM	X-linked
+USH1G	AR
+USH1E	AR
+GREM2	AD
+PRKCH	Multifactorial predisposition
+MATN3	Sex-influenced autosomal dominant, AR, AD
+COPA	AD
+LIAS	AR
+Caused by mutation in the GEM-associated protein 4 gene (GEMIN4. {606969.0001})	AR
+DHH	AR
+HACE1	AR
+PRKCD	AR
+MLL	AD
+PDSS2	AR
+INTU	AR
+S23	AD
+PADI3	AR
+Contiguous gene syndrome caused by deletion of 18p11.21-p11.1 {UMLS C3549826}	AD
+S26	AD
+PADI4	Unproved inheritance
+S24	AD
+PADI6	AR
+HBA1	AD
+UCP1	AD
+LMNA	AR, AD
+HBA2	AD
+NAT8L	AR
+TOE1	AR
+SLC6A20	AR, AD
+PEE1	AD
+FBXL3	AR
+NRL	AD
+GPIHBP1	AR
+NRIP1	AD
+ELAC2	AR
+RAPSN	AR
+BP1	AD
+TYMP	AR
+BP2	AD
+SPG14	AR
+D4	AD
+D2	AR, AD
+D3	AR, AD
+D1	AR, AD
+FLVCR2	AR
+FLVCR1	AR
+WD	AR, XLD, AD, XLR
+METTL13	AD
+ACTG1	AD
+ADD1	Multifactorial
+MFRP	AR
+TBX21	AR
+FBXO11	AD
+TACO1	AR
+CHSY1	AR
+WW	AR, AD
+TPI1	AR
+PCK1	AR
+VPS37A	AR
+FAM189A2	AD
+TMEM106B	AD
+CWC27	AR
+DEL11p15p14	AR
+SYNE2	AD
+MAP3K8	Somatic mutation
+26S	AD
+IRF7	AR
+PPP1R3A	AD
+PNPLA2	AR
+SMO	Somatic mosaicism
+KSR	X-linked
+PRPF31	AD
+TUSC3	AR
+DEAF1	AR, AD
+MAP3K7	AD
+IER3IP1	AR
+C15orf41	AR
+PLA2G6	AR
+PLA2G7	Autosomal dominant vs. multifactorial, AR, AD
+ARIX	AR
+PLA2G5	AR
+ALG9	AR
+PITX1	AD
+LARP7	AR
+NUP214	AR, AD
+TRPV4	AD
+TRPV6	AR
+MAP3K20	AR
+TRPV3	AD
+CREB3L1	AR
+ATPAF2	AR
+ERBB3	AR, AD
+XIB	AR, AD
+CTSK	AR
+HAL	AR
+TBXAS1	AR, AD
+ERBB4	AD
+H	AR, AD
+CTSB	AD
+CTSC	AR
+CTSD	AR
+CTSF	AR
+DUP16p13.3	AD
+RPL15	AD
+AFP	AR, AD
+RPL10	XLR
+RPL11	AD
+RPL12	AD
+SETD2	AD
+FGFR2	AD
+FGFR3	Somatic, Somatic mutation, AD
+FGFR1	Somatic mosaicism, AD
+PCYT1A	AR
+COL10A1	AD
+INPP5E	AR
+P4HA2	AD
+DFNB38	AR
+INPP5K	AR
+NME8	AR
+FREM2	AR
+FREM1	AR, AD
+SYP	XLR
+MYP10	Multifactorial
+AMMECR1	XLR
+PRRX1	AR
+SPEG	AR
+VIPAS39	AR
+CDMP1	AR
+TNNC1	AD
+EMD	XLR
+PPKP1B	AD
+DYX2	Autosomal dominant quantitative trait locus (QTL) 6p21.3
+MIP	AD
+MCOPS8	AD
+ZMYND10	AR
+DYX8	AD
+CXORF56	X-linked
+DUOX2	AR
+Caused by duplication of 59kb on chromosome 2q35 {UMLS C3806016}	AD
+EPB41	AD
+DFNB20	AR
+SNORD118	AR
+Caused by palindrome-mediated interchromosomal insertions on chromosome Xq27.1 {UMLS C3275577}	XLD
+CNSN	AR
+Susceptibility conferred by duplication of the homolog of the mouse T brachyury gene (T	AD
+TIMM8A	XLR
+DFNB33	AR
+AP2S1	AD
+DFNB32	AR
+ZMYND11	AD
+L10	XLR
+AFF4	AD
+NT5E	AR
+AFF2	XLR
+RIT1	AD
+PRDM5	AR
+LARGE1	AR
+PNPLA1	AR
+RRM2B	AR, AD
+PNPLA6	AR
+ODAPH	AR
+Contiguous gene syndrome caused by 202 to 746 kb duplication on chromosome Xq25 {UMLS C4315504}	X-linked
+IL1RAPL	XLR
+NPPA	AR, AD
+SMAR	AR
+KIAA0196	AR, AD
+FRZB	Multifactorial
+CUX1	AD
+MER	AR
+PHKA1	XLR
+GRIK2	AR
+PSMNSW	AD
+CCM2	AD
+FRDA2	AR
+PDP1	AR
+LEPRE1	AR
+UBA5	AR
+GABBR2	Genetic factors seem to contribute only in light smokers and heavy smokers, AD
+UBA1	XLR
+BACH2	AD
+PHKA2	XLR
+TBCE	AR
+KIAA0753	AR
+HERC1	AR
+ABCA12	AR
+NAA15	AD
+TP53	AR, AD, Somatic mutation
+GNAQ	AD, Somatic mosaic
+NAA10	XLR, X-linked
+GNAS	Somatic mosaicism, AD, Somatic mutation
+MED13L	AD
+CDHR1	AR
+DFNB27	AR
+ARHGEF9	XLR
+GAB1	AR
+WWE	X-linked
+ARHGEF6	XLR
+NOGO	AR
+WNT10A	AR, AD
+GNAL	AD
+EFL	AR
+DPAGT1	AR
+TOP3A	AR
+UBE2T	AR
+COL12A1	AD
+CYP26C1	AR
+DPF2	AD
+FARS2	AR
+STX1B	AD
+LIPT2	AR
+CLPX	AD
+GLIS3	AR
+ARHGEF2	AR
+CRYGS	AD
+CHIT	AR
+MR1	AD
+KRT3	AD
+KRT2	AD
+KRT1	AD
+UCP2	AD
+KRT5	AR, AD
+KRT4	AD
+GNMT	AR
+IL1B	AD
+KRT8	Autosomal recessive cases, probably heterogeneous
+CRYGD	AD
+KMT2D	AD
+BTBD12	AR
+FLG2	AR
+FRMD7	X-linked
+SIK1	AD
+HMGIC	Somatic mutation
+SIK3	AR
+KRT81	AD
+CFSS	XLD
+KRT83	AR, AD
+MASTL	AD
+KRT85	AR
+CASK	XLD
+GPR88	AR
+CAST	AR
+PRBNS	AR
+KRT6B	AD
+TSEN2	AR
+Caused by mutation in the solute carrier family 34	AR
+CASR	AR, AD
+SANS	AR
+NMNAT1	AR
+ALOX12B	AR
+RPS19	AD
+TAS2R38	AD
+COCH	AR, AD
+EPB41L1	AD
+FAM46A	AR
+NDUFA2	AR
+MTM1	XLR
+NDUFA1	AR, XLR
+COMP	AD
+WAC	AD
+COMT	AD
+NDUFA9	AR
+RS1	XLR
+SALL4	AD
+SALL1	AD
+FDXR	AR
+SALL2	AR
+COMA	AR
+BCL11B	AD
+WAS	XLR
+ATOD1	AD
+GPR68	AR
+TARDBP	AD
+6A	AD
+6B	AR, AD
+DFNA5	AD
+6D	AR
+TBL1XR1	AD
+IL10	Unproved inheritance
+WEE2	AR
+WNT1	AR
+IL13	Autosomal dominant vs. multifactorial
+AGXT	AR
+GSDME	AD
+WNT4	AR, AD
+IL6	AD, Multifactorial, Autosomal recessive susceptibility
+IL7	AR
+BOLA3	AR
+PPP1R15B	AR
+GPAA1	AR
+{313700.0014})	XLR
+C9orf72	AD
+DCAF17	AR
+KRT9	AD
+ZMPSTE24	AR
+MOGS	AR
+DFNA54	AD
+GNS	AR
+NDNC7	AD
+COLGALT1	AR
+DFNA51	AD
+Caused by duplication of 0.9 - 1.2 Mb on 8q22.1 {UMLS C4011665}	AD
+DFNA53	AD
+DFNA58	AD
+AIP	AD
+ADGRE2	AD
+INSR	AR, AD
+RC14S	Isolated cases
+MKS	AR
+GNE	AR, AD
+{609557})	AR
+TXNL4A	AR
+RB1CC1	AD
+OTOG	AR
+FYB	AR
+SPTBN2	AR, AD
+AIC	XLD
+DDH1	Multifactorial
+GDF9	AR
+DDD3	AD
+NSL	AD
+OI16	AR
+TYS	AD
+GDF3	AD
+GDF2	AD
+GDF1	AR, AD
+TFAP2B	AD
+GDF6	AR, AD
+GDF5	AR, AD
+GBE1	AR
+DACT1	AD
+STRA6	AR
+PI12	AD
+Contiguous gene syndrome caused by deletion (minimum 1.3Mb) of chromosome 6pter-p24 {UMLS C2748947}	Isolated cases
+GDNF	AD
+SUOX	AR
+DPP6	AD
+PUS3	AR
+CPT1A	AR
+IX	AR, AD, XLR
+CPT1C	AD
+SLC44A4	AD
+SULT2B1	AR
+Caused by 1 to 3.8-Mb duplication on chromosome 2q31.1 {UMLS C4229821}	AD
+POU3F4	XLR
+IQ	AR, XLD
+IV	AD, XLD, AR, Mitochondrial, XLR, X-linked
+II	AR, AD, Multifactorial, XLR
+Caused by imprinting defect on chromosome 14q32 {UMLS C4015592}	Autosomal dominant (loss of paternal allele)
+MCM5	AR
+MCM4	AR
+HPS4	AR
+CYP2A6	Genetic factors seem to contribute only in light smokers and heavy smokers, AD, Somatic mutation
+MLC1	AR
+SEDL	XLR
+TMEM16E	AR
+IC	AD
+LIPN	AR
+{608284})	AD
+MCM9	AR
+MCM8	AR
+SQSTM1	AR, AD
+SAMHD1	AR, AD
+A13	AD
+CARD14	AD
+AMACR	AR
+GRHL3	AD
+BRWD3	XLR
+ANO10	AR
+POGZ	AD
+Contiguous gene syndrome caused by deletion of the paternal allele of the imprinted region at 15q11.2	Autosomal dominant (loss of paternal allele)
+NDUFS2	AR
+NDUFS3	AR
+COQ9	AR
+SECISBP2	AR
+DELXq21	XLR
+PRUNE1	AR
+NDUFS8	AR
+COQ4	AR
+COQ7	AR
+COQ6	AR
+HEPACAM	AR, AD
+COQ2	AR, AD
+DHDDS	AR, AD
+TSR2	XLR
+TIMP3	AD
+PROM1	AR, AD
+NAD	AR
+NIDDM3	AD
+TEX11	XLR
+PARN	AR, AD
+FBXL4	AR
+TECTA	AR, AD
+EPS	AR
+HBB	AR, AD
+CHMP2B	AD
+EPO	AR, AD
+PNLIP	AR
+HLA-DQA1	AR
+MDS1	AD
+MS4A2	AD
+AUTS3	Isolated cases
+MS4A1	AR
+ZNF141	AR
+NHLRC2	AR
+NHLRC1	AR
+TFAP2A	AD
+LYR	AR
+DYT21	AD
+ZNF148	AD
+CCDC88C	AR, AD
+DSC2	AD
+DSC3	AR
+NDUFB11	XLD, AR, X-linked
+WDR66	AR
+IGAD1	AD
+GPR101	X-linked
+CDKN2A	AD
+OSMR	AD
+PHC1	AR
+Caused by mutation in the YY1-associated protein-1 gene ({607860.0001})	AR
+COX8A	AR
+TRMT10A	AR
+SEC24D	AR
+DUP2q31.1	AD
+PYGL	AR
+RNASEL	AD
+DEL9p	AD
+DDX3X	XLD
+TNPO3	AD
+VAMP1	AR, AD
+SOD1	AD
+DEL2p16.1-p15	Isolated cases
+GRXCR1	AR
+GRXCR2	AR
+SVA	XLR
+MSN	XLR
+KCNN4	AD
+FASLG	AD, Somatic mutation
+RPS15A	AD
+C9ORF72	AD
+PMS2	AR
+BRAT1	AR
+OTUD6B	AR
+BCS1	AR
+ETM2	AD
+NACC1	AD
+A contiguous gene syndrome caused by deletion of 2.2 to 10.6Mb of terminal 1p36 {UMLS C3277020}	Isolated cases
+VPS13A	AR
+ROBO3	AR
+(11|22)(q23|q11.2)	Inherited chromosomal imbalance
+MST1R	AD
+ROBO4	AD
+Supernumerary inv dup(22)(q11) chromosome	AD
+TLR2	AD, Somatic mutation
+TLR3	AD
+SERPING1	AD
+21B	AR, AD
+21A	AD
+GRIP1	AR
+MYO15A	AR
+HSN2	AR
+SLC19A2	AR
+SLC19A3	AR
+SCN3B	AD
+CCDC65	AR
+VDR	AR, AD
+UPF3	XLR
+SLC7A9	AD
+HLA-C	Multifactorial
+HLA-B	Multifactorial
+TRAK1	AR
+NFKBIA	AD
+HLA-G	Autosomal dominant vs. multifactorial
+PABPN1	AD
+FMN2	AR
+DHMN1	AD
+CLTC	AD
+DEL17q12	AD
+HBHR	AD
+DEAD	AD
+NGLY1	AR
+CRYGB	AD
+FLG	AD
+MMDK	AD
+CANDN1	AD
+ANLN	AD
+KAL1	XLR
+UBE3B	AR
+AMER1	XLD
+UBE3A	Autosomal dominant (loss of maternal allele)
+IDDM1	Autosomal recessive susceptibility
+OTOGL	AR
+HSD3B7	AR
+SLC35A1	AR
+NR5A1	AD
+SLC35A3	AR
+RPGRIP1	AR
+DLX5	AR, AD
+MYD88	AD
+MPDZ	AR
+ADGRG2	X-linked
+FLJ90140	AR
+TRH	AR
+EPM2A	AR
+ACVRL1	AD
+ISCA1	AR
+HSD3B2	AR
+ISCA2	AR
+PCAP	Somatic mutation
+PGM1	AR
+LMX1B	AD
+SLC26A1	AR
+SLC26A2	AR
+DRAM2	AR
+SLC26A4	AR
+SLC26A5	AR
+NMDA	AD
+FGF8	AD
+SLC26A8	AD
+TKCR	X-linked with incomplete dominance (Xq28)
+FGF5	AR
+SCAX5	XLR
+FGF3	AR
+ACTB	AD
+SERPINA7	X-linked
+RBM8A	AR
+PMP22	AD
+BCAM	AR
+STAT1	AR, AD
+SLC25A46	AR
+DNMBP	AR
+ALPQTL1	AD
+GCH1	AR, AD
+HDAC8	XLD
+HOXD13	Isolated cases, AD
+TNFAIP3	AD
+STRADA	AR
+PDZD7	AR
+CORD8	AR
+ELOVL4	AR, AD
+HTT	AR, AD
+NUP155	AR
+RNPC3	AR
+CORD1	Autosomal dominant (18q21.1-qter)
+TMEM165	AR
+BEST1	AD
+XPNPEP3	AR
+FOXP2	AD
+FOXG1	AD
+VAX1	AR
+FOXP3	XLR, Autosomal recessive susceptibility
+PDE3A	AD
+RPL35A	AD
+OPCML	Somatic mutation
+KTWS	Isolated cases
+CARS2	AR
+MRT16	AR
+GNRHR	AR
+KRT86	AD
+Caused by a deletion of chromosome 9p {UMLS C2675024}	AD
+ATP1B1	Multifactorial
+Contiguous gene syndrome caused by deletion of 7.1 to 8.7Mb of 16p12.2-p11.2 {UMLS C4013753}	Isolated cases
+CWF19L1	AR
+NDP	X-linked recessive X-linked dominant (1 family), XLR
+LMBR1	AR, AD
+TP63	AD
+LIPH	AR
+NSDHL	XLD, XLR
+RD3	AR
+SGCG	AR
+SGCE	AD
+SGCD	AR
+GP1BA	AR, AD
+SGCB	AR
+MARS2	AR
+CNKSR2	X-linked
+ovalbumin)	AR
+BCO1	AD
+{601397.0002})	AR
+WRN	AR
+ALDH18A1	AR, AD
+DUSP6	Autosomal dominant (see MISCELLANEOUS below)
+KRT6C	AD
+ICOS	AR
+LRRC8A	AD
+SHPK	AR
+ASD1	Autosomal dominant in occasional families
+MCMDC1	AR
+OTULIN	AR
+J	AR, AD
+RDX	AR
+{607067})	AD
+TBR1	AD
+FERMT3	AR
+FERMT1	AR
+ATFB1	AD
+BCOR	XLD
+RAD54B	Somatic mutation
+ANO5	AR, AD
+PDGFRA	AD, Somatic mutation
+S28	AD
+VWA3B	AR
+IDUA	AR
+BCAP31	XLR
+CCL11	Autosomal dominant vs. multifactorial
+LFNG	AR
+ACRPS	AD
+GAIP	AR
+G6B	AR
+MDC1B	AR
+TCBE	AR
+ABHD5	AR
+LEM	AR, AD
+GLB1	AR
+LEP	AR
+TINF2	AD
+NKX3-2	AR
+PITPNM3	AD
+DGUOK	AR
+C1NH	AD
+TMLHE	XLR
+TITF1	AD
+AUTS4	AD
+AUTS5	AD
+AUTS2	AD
+CD191	AR
+PLCE1	AR
+TWINKLE	AD
+PRPH2	AD
+HJV	AR
+MDCMP	AR
+AUTS8	Isolated cases
+ADAM10	AD
+MRT4	AR
+FAM83H	AD
+IKBKAP	AR
+GPR56	AR
+BMP15	X-linked
+ADAM17	AR
+MRT9	AR
+PDYN	AD
+SERPINA1	AR
+B3GNT1	AR
+GABRD	AD
+DFNB5	AR
+EXOC6B	AR
+PLOD2	AR
+PLOD3	AR
+PLOD1	AR
+NRAS	Somatic mutation, Somatic mosaicism, AD, Somatic
+Contiguous gene deletion of at least 16Mb encompassing 39 genes on 13q14 {UMLS C3279307}	AD
+PMPCB	AR
+FOXRED1	AR
+DSPP	AD
+Caused by contiguous gene duplication of 3.2 to 19.8 Mb on chromosome 17p12-p11.2 {UMLS C4228162}	AD
+CCDC88A	AR
+MICOS13	AR
+DACT	AD
+Contiguous duplication of 2.2Mb on chromosome 17q23.1-q23.2 {UMLS C3552836}	AD
+DGKE	AR
+ICK	AR, AD
+DNMT3A	AD
+CACNA1G	AD
+GRIN2D	AD
+RAD21	AR, AD
+EIG3	AR
+DFNA49	AD
+DKC1	XLR
+DDX58	AD
+PTGIS	Multifactorial
+KIDINS220	AD
+ABCD3	AR
+MYOZ2	AD
+ALDH6A1	AR
+DDX59	AR
+SNRPN	Autosomal dominant (loss of paternal allele)
+CNC	AD
+NR2E3	AR, AD
+SNRPB	AD
+C21orf2	AR
+BCS1L	AR
+RTEL1	AD
+NPM1	AD
+BCL10	AR, Somatic mutation
+PACS2	AD
+SNRPE	AD
+CFTDX	XLD
+PFC	XLR
+GFM1	AR
+GFI1	AD
+MAST1	AD
+UQCRQ	AR
+MXI1	Somatic mutation
+RNF168	AR
+AKR1D1	AR
+INDX	XLD
+UNC45B	AD
+AMTN	AD
+NEDD4L	AD
+BHLHA9	AR
+DEL13q14	AD
+DVL	AD
+BRAF	AD, Somatic mutation
+EJM4	AD
+AK7	AR
+EJM9	AD
+ZDHHC15	XLD
+SMARCC2	AD
+SDCCAG8	AR
+PCSK9	AD
+ESPN	AR
+RP29	AR
+CTC1	AR
+RHBDf2	AD
+PRKAG2	AD
+MEN1	AD
+UCP3	AD
+DEL1q21	AD
+JPH2	AD
+POGLUT1	AR, AD
+TTID	AD
+GABRB1	AD
+SIK	AR
+SEMA4A	AR, AD
+TYK2	AR
+HPSE2	AR
+LEMD3	AD
+LEMD2	AR
+TAT	AR
+QARS	AR
+TAR	AD
+GATM	AR
+G-protein)	AD
+RETN	AD
+TAZ	XLR
+HPS3	AR
+RPL18	AD
+MCDR3	AD
+GGT1	AR
+SCN4A	AR, AD
+TAM	Possible disomic homozygosity at 21q11.2
+MMP20	AR
+SCN4B	AD
+CERS3	AR
+SLITRK6	AR
+LRP2	AR
+TWIST1	AD
+OPN1SW	Autosomal dominant (7q31.3-q32)
+DFNA7	AD
+ALOXE3	AR
+CAMTA1	AD
+ZNF687	AD
+GIF	AR
+PIK3C2A	AR
+LRP1	AR
+IQCE	AR
+RUN	AR
+TRAF3IP1	AR
+BBS12	AR
+FRRS1L	AR
+TTI2	AR
+DDX41	AD
+{188450.0001})	AR
+D2HGDH	AR
+GATA	AR, AD
+PACD	AD
+PTEN	AR, AD, Somatic mutation
+POP1	AR
+ANGPTL4	AD
+ANGPTL3	AR
+COLEC10	AR
+COLEC11	AR
+FDX2	AR
+CERS1	AR
+KLC2	AR
+CEP78	AR
+PSMD12	AD
+CTCF	AD
+L35A	AD
+RASGRP2	AR
+KDM6A	XLD
+MTCYB	Mitochondrial
+ACTA1	AD
+MMP13	AR, AD
+DSTYK	AR, AD
+CDKN1B	AD
+MMP19	AD
+TSHZ1	AD
+MLL2	AD
+MYO18B	AR
+PRG4	AR
+IGSF3	AR
+SETBP1	AD
+TPK1	AR
+EDNRA	AD
+EDNRB	AR, AD
+TWIST2	AR, AD
+TDO2	AR
+VVS	AD
+CHCHD2	AD
+ETL2	AD
+APOE	AR, AD, Autosomal dominant allele (19q) with additional multifactorial component in late-onset cases
+APOB	AR, AD
+ETL6	AD
+FARSB	AR
+AHR	AR
+MIR2861	AD
+TCF2	AD
+NDUFV2	AR
+CYP2C	AR
+PPR	AR
+NF2	AD
+NF1	AD
+ARID2	AD
+KDSR	AR
+GRIN2B	AD
+DYNC2LI1	AR
+HNMT	Autosomal dominant vs. multifactorial, AR
+BFSP2	AD
+B3GLCT	AR
+EDARADD	AR, AD
+HCS	AR
+CDAN3	AD
+FRAS1	AR
+TSPYL1	AR
+SPRTN	AR
+SCA18	AD
+KCNQ4	AD
+KCNQ5	AD
+KCNQ2	AD
+KCNQ3	AD
+NCAPD2	AR
+NCAPD3	AR
+SLC39A8	AR
+HOXC13	AR
+MMACHC	AR
+MTCO1	AR, Mitochondrial
+BLK	AD
+LOAS	X-linked
+LHX4	AD
+RECQL3	AR
+RTTN	AR
+SLC39A5	AD
+PDGFRL	Somatic mutation
+PREPL	AR
+CABP4	AR
+CABP2	AR
+TCN2	AR
+CCA1	AD
+PNKD2	AD
+Caused by a 5.1-Mb duplication of chromosome Xq27.3-q28 {UMLS C3275523}	XLR
+FBXO31	AR
+ATXN8	AD
+ATXN7	AD
+VWF	AR, AD
+HARS2	AR
+TS2	Somatic mutation
+ATXN3	AD
+DNASE1L3	AR
+ATXN1	AD
+SCN2B	AD
+MYH11	AD
+TUKLS	AR
+S8	AR
+B3GALT6	AR
+PPP2R1A	AD
+ARHGEF10	AD
+SMG9	AR
+S1	AR
+DUPXp11.23p11.22	XLD
+S7	AR
+LMF1	AR
+RET	AD
+MIB1	AD
+PEX19	AR
+MBOAT7	AR
+PTGER2	AR
+AKAP10	AD
+site-1 gene ({603355.0001})	AR
+KCTD7	AR
+CHAMP1	AD
+COL2A1	Autosomal dominant vs. multifactorial, AD
+HTRA1	AR, AD
+HTRA2	AR
+TSC1	Somatic mutation, AD
+HMBS	AD
+CYP2R1	AR
+TECR	AR
+CFEOM3C	AD
+BPGM	AR
+SLC30A10	AR
+SMC3	AD
+CTSA	AR
+NEDD4	AD
+PYROXD1	AR
+MDRV	AD
+ALAS2	XLR, X-linked
+{300474})	XLR
+COX7B	XLD
+KONDS	AR
+LNPK	AR
+KIND1	AR
+ROM1	AD
+ROGDI	AR
+LEPR	AR
+CPOX	AD
+DNAH1	AR
+PTLS	Isolated cases
+NALP7	AR
+ALG10	AD
+ALG11	AR
+Caused by deletion of 3.7Mb on chromosome 6q13-q14 {UMLS C3278940}	Isolated cases
+ALG13	XLD
+ALG14	AR
+WEE1	AR
+MCM2	AD
+MTFMT	AR
+PCLO	AR
+PBCRA1	AD
+BMPR1A	AD
+SOX17	AD
+NTN1	AD
+BMPR1B	AR, AD
+PAURT1	AD
+BANF1	AR
+ZMYND15	AR
+FOXP1	AD
+TBP	AD
+GPD1	AR
+SA	AD
+LMOD3	AR
+GREB1L	AD
+MORC2	AD
+SDR9C7	AR
+SPDA2	AD
+DFNB26	AR
+B4GALNT1	AR
+ALK1	AD
+ANKH	AD
+ASCL1	AD
+DEL14q11q22	Isolated cases
+EGFR	AR, Somatic mutation
+NPR2	AR, AD
+PTPRZ1	Not determined
+BAP1	AD
+ALOX5AP	Multifactorial predisposition
+WDR81	AR
+MRXSA	XLR
+AP1S3	AD
+NDE1	AR
+GYG1	AR
+PYGM	AR
+CAD	AR
+CYP27A1	AR
+SIM1	AD
+SPTBN4	AR
+MRSD	X-linked (Xq28-qter)
+DYSF	AR
+BTD	AR
+PDE1C	AD
+94% {UMLS C1860798};\nMosaic trisomy 21	Isolated cases
+PDCD1	Multifactorial
+IMPDH1	AD
+DYS	AR
+HNF1B	AD
+DYM	AR
+HNF1A	AD, Autosomal dominant (12q22-qter), Autosomal recessive susceptibility
+PGR	AR
+DFNB51	AR
+CXCR4	AD
+PRKRA	AR
+{313700.0008})	XLR
+CLRN1	AR
+CACT	AR
+RNASEH1	AR
+ZRS	AD
+MYBPC1	AR, AD
+COA5	AR
+QRICH2	AR
+QRICH1	AD
+DDRGK1	AR
+ADAT3	AR
+CAMK2A	AR, AD
+PCSK1	AR
+CRYBB3	AD
+CRYBB1	AD
+SEPSECS	AR
+TTBK2	AD
+MASS1	AD
+L2HGDH	AR
+XXV	AR
+DMXL2	AR, AD
+ARSE	XLR
+SHFLD3	AD
+ARSG	AR
+NPCA2	Questionably mendelian, but strong genetic factor involved
+SMCHD1	AD
+NMLFS	AD
+HEXA	AR
+OGT	XLR
+HEXB	Autosomal recessive with multiple alleles and compounds
+CAMPD1	AD
+RBMX	XLR
+ANK1	AD
+CLCNKA	Digenic recessive
+ANK3	AR
+CHRNG	AR
+CHRND	AR, AD
+CHRNE	AR, AD
+EEF2	AD
+FUT8	AR
+Caused by a ring chromosome 14 {UMLS C4228247}	Isolated cases
+NR1H4	AR
+ZNF	AD
+GHR	AR, AD
+EPHX1	AR
+RLBP1	AR, AD
+RPGR	AR, XLR, X-linked
+COQ8A	AR
+RPE65	Autosomal recessive with at least 6 different loci, AR
+TMC6	AR
+HYLS1	AR
+AGXT2	AR
+ANKRD11	AD
+FBXO38	AD
+PYCR2	AR
+FBLN1	AD
+FSHD1	AD
+FBLN5	AR, AD
+IBD11	Multifactorial
+GNAI3	AD
+ADAMTS3	AR
+ADAMTS2	AR
+MDH2	AR
+COX6A1	AR
+MHS4	AD
+MAFD2	X-linked dominant vs. multifactorial
+SP110	AR
+AMBN	AR
+ARHGEF1	AR
+DDHD	AR
+TSPEAR	AR
+PROKR2	AD
+CBFB	Isolated cases, AD
+SC5DL	AR
+TEX14	AR
+CDH1	AD, Somatic mutation
+CDH3	AR
+RP1L1	AD
+AMPD1	AR
+MCOR	AD
+LIPA	AR
+LIPC	AR, AD
+PFHB2	AD
+LIPE	AR
+CENPJ	AR
+IFITM5	AD
+SNAP25	AD
+LIPI	AD
+CENPF	AR
+CENPE	AR
+PKDTS	Autosomal dominant contiguous deletion of TSC2 and PKD1
+L	AR, XLR, AD
+Caused by mutation in the complement component 2 gene (C2	AR
+EIF2B3	AR
+2D	AR, AD
+LDB3	AD
+CLCF1	AR
+PEX11B	AR
+2A	AR, AD
+2B	AR, AD
+2C	AR, AD
+ANK2	AD
+EIF2B1	AR
+PAFAH1B1	AD
+KPTN	AR
+IL2RG	XLR
+GH1	AR, AD
+TRPC3	AD
+SCARB2	AR
+VCAN	AD
+ARSA	AR
+PRF1	AR
+NT5C2	AR
+ADGRG6	AR
+{APOA1	AD
+CYLD	AD
+MALT1	AR
+ADGRG1	AR
+MRPL44	AR
+ANC	AD
+TRIP4	AR
+DNAJC12	AR
+WNT7A	AR
+MEIOB	AR
+SAMD12	AD
+KMT2C	AD
+NGF	AR
+LITAF	AD
+MRT11	AR
+MRT10	AR
+CMTX3	XLR
+CMTX2	XLR
+ARSB	AR
+TREM2	AR
+PROS1	AR, AD
+SEC61	AD
+SEC63	AD
+DHX38	AR
+GMNN	AD
+CNTN1	AR
+HDC	AD
+LAMB1	AR
+ANXA5	AD
+LAMB3	AR, AD
+LAMB2	AR
+ATP7A	XLR
+CRADD	AR
+ATP7B	AR
+WNT3	AR
+SH2	XLR
+SH3	AR, AD
+NEK2	AR
+NEK1	AR, AD
+ADAR	AR, AD
+ESRRB	AR
+NEK8	AR
+NEK9	AR, Somatic mutation
+I	AR, Mitochondrial, AD, Multifactorial, XLR
+BMP	AR
+GP6	AR
+DENN	AR
+MHC2TA	AR, Multifactorial
+QDPR	AR
+IIIA	AR
+IIIB	AR
+E1	AR, AD
+MTP	AR
+E3	AR, AD
+E2	AD
+C12ORF62	AR
+DHPS	AR
+PPKP3	AD
+C12ORF65	AR
+C7orf10	AR
+PARK21	AD
+ADA2	AR
+TIMMDC1	AR
+SRXX2	AD
+SRXX3	XLD
+CNGA3	AR
+PSMC3IP	AR
+DUPXq25	X-linked
+SHH	AD
+CCDC8	AR
+PHEX	XLD
+DYNC2H1	AR
+ES	AD
+{136850.0003})	AD
+EPOR	AD
+EGLN1	AD
+Caused by deletion of mtDNA {UMLS C3151957}	Mitochondrial
+MTHFD1	AR
+MCM6	AD
+ATP6B1	AR
+RIPOR2	AR
+DNAH9	AR
+MGS	AR
+BBS10	AR
+NR0B1	XLR, X-linked
+MYBPC3	Autosomal dominant (incomplete penetrance), AD
+HS6ST1	AD
+HS6ST2	XLR
+ITGA2B	AR, AD
+NSD1	AD
+DEL10q26	AD
+NSD3	AD
+SCN5A	AR, Autosomal recessive form vs. multifactorial, AD
+TBG	X-linked
+SASS6	AR
+TEMPS	Autosomal dominant (loss of paternal allele)
+CCDC47	AR
+CSF1R	AR, AD
+TMEM138	AR
+FOXE1	AR, AD
+HSD17B10	XLD
+FOXE3	AR, AD
+PRKDC	AR
+SPRY2	AD
+LOR	AD
+TRPC6	AD
+OHDS	AD
+SPRY4	Autosomal dominant (see MISCELLANEOUS below)
+HPPD	AD
+ADSL	AR
+EHHADH	AD
+MPLKIP	AR
+PRSS12	AR
+RNF113A	XLD
+MYH2	AD
+MYH3	AR, AD
+COASY	AR
+MRE11A	AR
+MYH6	AD
+MYH7	AR, AD
+GAS2L2	AR
+CDKL5	XLD
+IE	AR
+MYH8	AD
+MYH9	AD
+EXPH5	AR
+ZNF341	AR
+ECT	Isolated cases
+TBX15	AR
+RAF1	AD
+GABRG2	AD
+TBX18	AD
+TBX19	AR
+X1	AR
+ANO6	AR
+SLC35C1	AR
+CMTDIA	AD
+PUS1	AR
+XI	AR, AD
+FGD1	XLR
+Caused by a 1.35-Mb deletion of chromosome 1q21 {UMLS C2675902}	AD
+PUS7	AR
+GNB5	AR
+GNB4	AD
+CEP250	AR
+GNB1	AD
+GNB3	AR, Multifactorial
+GTP	AR, AD
+DLL3	AR
+DLL4	AD
+SATB2	AD
+MERTK	AR
+OPN1LW	XLR, X-linked
+ISPD	AR
+mis5	AD
+{120700.0005})	AD
+TMEM5	AR
+IR17RC	AR
+ELP2	AR
+KAT6A	AD
+PDA1	AR
+CNNM2	AD
+CNNM4	AR
+RFWD3	AR
+8A	AR
+RSRC1	AR
+UNC84	AR
+CSPP1	AR
+Caused by chromosome 14 paternal uniparental disomy {UMLS C4017770}	Autosomal dominant (loss of maternal allele)
+ABCG8	AR
+C1R	AD
+RETREG1	AR
+MYO9A	AR
+GLC1P	AD
+POLR1D	AD
+CPN1	AR
+RANBP2	AD
+PIGA	XLR, Somatic mutation
+CKAP2L	AR
+CRHR1	AD
+SLC4A11	AR
+TGFB1	AR, AD
+TGFB2	AD
+TGFB3	AD
+chrX:135.6-136.1	XLD
+WBS	AD
+TGFBR2	AD, Somatic mutation
+PBC1	AD
+CREATION	AR
+NLGN4	X-linked
+CMH21	AD
+LGI4	AR
+SLC5A1	AR
+SLC5A2	AD
+B	AD, Multifactorial, Digenic recessive, XLD, AR, XLR
+LGI1	AD
+ECE1	AD, Multifactorial
+3B	AR, AD
+F13A1	AR, AD
+SCLC1	AD
+3A	AD, Autosomal dominant (see MISCELLANEOUS below)
+FKRP	AR
+YWHAZ	AD
+OTSC4	AD
+Caused by deletion of 1.5Mb on 3q29 encompassing 22 genes {UMLS C2750401}	Isolated cases
+APRT	AR
+CASQ1	AD
+7A	AR
+NDUFS1	AR
+RPY	Y-linked
+CFHR5	AD
+NOP56	AD
+RB1	AD, Somatic mutation
+ALX4	AR, AD
+ETS2	AD
+XB	AR, AD
+CRSA	AD
+FEB1	AD
+PMFBP1	AR
+AURKC	AR
+{120700.0001})	AR
+NDUFS4	AR
+YWHAG	AD
+OTSC1	Autosomal dominant with reduced penetrance
+RP1	AD
+SOX18	AR, AD
+MGR12	AD
+RP2	XLR, X-linked
+DUP5p13	Isolated cases
+NDUFS6	AR
+ATAD3A	AD
+GNPTG	AR
+RP9	AD
+CYP21A2	AR
+CARD11	AR, AD
+NDUFS7	AR
+M	AR, AD
+GLRB	AR
+XVIIIB	AR
+SYNGAP1	AD
+C1S	AD
+MGAT2	AR
+PANK2	AR
+ARR3	X-linked (female limited)
+CASC5	AR
+DFCTRPS	XLR
+TUBA4A	AD
+SRGAP1	AD
+CHST11	AR
+TXN2	AR
+AHCY	AR
+CHST14	AR
+BFSP1	AR
+MRD2	AD
+OTC	XLR
+SIN3	AD
+VPS11	AR
+HTR1A	AD
+88C	AR, AD
+TAF1	XLR
+88A	AR
+CUL4B	XLR
+CYP2C19	AR
+SCA7	AD
+TGFBI	Autosomal dominant (5q22-q33.3), AD
+PBCA	AR
+HDL3	AR
+MMP2	AR
+OTU	AR
+MMP1	AR
+SLC6A3	Genetic factors seem to contribute only in light smokers and heavy smokers, AR
+SLC6A1	AD
+ACADVL	AR
+PTCHD1	XLR
+NDUFB9	AR
+SLC6A4	AD
+GNPTAB	AR
+SLC6A9	AR
+SLC22A5	AR
+NDUFB3	AR
+DEAH	AR, AD
+IL21	AR
+HADHB	AR
+POROK2	AD
+POROK6	AD
+EHMT1	AD
+ADGRV1	AR, AD
+PLDN	AR
+CCT5	AR
+KIF2A	AD
+MYP15	AD
+CAV1	AR, AD
+C12orf57	AR
+TXNRD2	AR
+USH2A	AR
+CEP135	AR
+PLSA1	AD
+Caused by mutation in the crystallin gamma-D gene ({123690.0001})	AD
+WASHC5	AR, AD
+ATP6AP1	XLR
+ANIB3	AD
+ATP6AP2	XLR
+IRF2BP2	AD
+CLN6	AR
+CLN5	AR
+CLN3	AR
+NEXN	AD
+CYMD	AD
+VSX1	AD
+CFHR1	AR, AD
+CEP57	AR
+SLC30A9	AR
+MAPRE2	AD
+HTC1	AD
+AQP7	AR
+BRCA2	Somatic mutation, AR, AD, Somatic
+VRK1	AR
+ANKS6	AR
+LRRC6	AR
+WNK1	AR, AD
+WNK4	AD
+{191290.0001}).	AR
+USP27X	XLR
+CDGSH	AR
+DUPXq27.3q28	XLR
+Contiguous gene deletion of 700-1,670kb on chromosome 21q21.33 {UMLS C4479730}	AD
+MRXS17	XLR
+EPHX2	AD
+MRXS12	X-linked
+ADCY5	AD
+ADCY6	AR
+RBBP8	AR
+P4HB	AD
+PLD1	AR
+PLD3	AD
+PHB	AD
+ENAM	AR, AD
+TCF7L2	AD
+PHD	AD, XLR
+RUNX2	AD
+LAMTOR2	AR
+RHAG	AD
+RUNX1	AD
+BMPR2	AD
+PNPO	AR
+CASP14	AR
+DLST	AD
+126B	AR
+126A	AR
+RNF216	AR
+LZTR1	AR, AD
+C2ORF25	AR
+ZBTB24	AR
+NR3C1	AD
+HMMR	AD
+DOCK8	AR, AD
+POGO	AD
+DOCK2	AR
+DOCK3	AR
+HRAS	Somatic mutation, Somatic mosaicism, AD, Somatic
+CACD1	AD
+C12orf4	AR
+DOCK7	AR
+GRIA4	AD
+UNC80	AR
+FGF9	AD
+MAB21	AR, AD
+DFNA30	AD
+CC2D1A	AR
+{FHL1	XLD, X-linked
+BCL2	Somatic mutation
+GSHR	AD
+XRCC3	AD
+XRCC2	AR
+CHECK2	Somatic mutation
+DYX1C1	AR
+Caused by duplication of 1.5 to 1.8 Mb on chromosome 7q11.23 {UMLS C4230143}	AD
+GER	AD
+KANSL1	AD
+SLC9A7	XLR
+TRIP4q32.1q32.2	AD
+MFF	AR
+SLC9A3	AR
+LIM2	AR
+{603770})	AR
+CIT	AR
+{313700.0020})	XLR
+BICC1	AD
+SCNN1G	AR, AD
+JUP	AR, AD
+TFRC	AR
+HYT5	Multifactorial
+SCNN1B	AR, AD
+SCNN1A	AR, AD
+HYT6	Multifactorial
+ACVR1	AD
+GSN	AD
+TM4SF20	AD
+EPHB2	AR
+CTLA4	AD
+TFR2	AR
+MC3R	Broad locus on 20q
+PLCB4	AD
+EPHB4	AD
+MHC	AR, Multifactorial
+CHKB	AR
+ZNF142	AR
+DTNBP1	AR
+DDC	AR
+LAMC3	AR
+PRLR	AD
+DNAH11	AR
+CLN2	AR
+ALDH1A3	AR
+GPHN	AR
+LMNB2	AR, AD
+LMNB1	AD
+ALDH4A1	AR
+LRBA	AR
+ESR1	AR, AD
+SH3TC2	AR, AD
+MRPS22	AR
+CUX2	AD
+CDC14A	AR
+GPR179	AR
+SLC39A4	AR
+DTNA	AD
+BLVRA	AD
+PHF8	XLR
+PPT1	AR
+PPP2R5D	AD
+MYCN	AD
+CEP19	AR
+SMN1	AR
+FGF23	AR, AD
+FGF20	AR
+MSMO1	AR
+SMN2	AR
+COL4A2	AD
+NADH	XLD, AR
+YY1	AD
+EARS2	AR
+LAGE3	XLR
+AP1S1	AR
+ACTC1	AD
+B5A	AR
+POLA1	XLR
+SPDT	AD
+TBX2	AD
+TBX3	AD
+TBX1	AD
+TBX6	AR
+LYZ	AD
+ADCY10	AD
+FBXO7	AR
+OPN1MW	XLR, X-linked
+KCNA4	AR
+KCNA5	AD
+KCNA2	AD
+A2M	AD
+KCNA1	AD
+COL4A1	AD
+SYCE1	AR
+OPTN	AD
+SLC10A7	AR
+HE1	AR
+AP1S2	XLR
+C10orf2	AR
+MCCC2	AR
+VARS2	AR
+FHL1	XLD, XLR, X-linked
+SLI2	Multifactorial
+MCCC1	AR
+CD8	AR
+SLI1	Multifactorial
+ND1	Mitochondrial
+CLLS2	AD
+ND3	Mitochondrial
+FTH1	AD
+ND5	Mitochondrial
+ND4	Mitochondrial
+KDR	AD
+ND6	Mitochondrial
+RPS26	AD
+RPS27	AD
+RPS24	AD
+DEL5q12	AD
+ACACA	AR
+RPS23	AD
+NDN	Autosomal dominant (loss of paternal allele)
+SLFN14	AD
+MTND4	Mitochondrial
+BDP1	AR
+SCA32	AD
+RPS28	AD
+N	AR, AD
+PLA2G2A	Somatic mutation
+APPL1	AD
+SERPINC1	AD
+BTNL2	AD
+ALDH7A1	AR
+ATRX	XLD, XLR
+CHMP1A	AR
+UGT1	AR
+RAD51B	Somatic mutation
+RAD51A	AD
+PRSS1	AR, AD
+SDHAF2	AD
+ERLIN2	AR
+TRAC	AR
+CIB2	AR
+MEGF8	AR
+ATL1	AD
+PRRT2	AD
+RUSC2	AR
+COL13A1	AR
+SON	AD
+TBXT	AR, AD
+BMND7	AD
+ZNF408	AR, AD
+RMD1	AD
+SLC35D1	AR
+SURF1	AR
+GLE1	AR
+NTRK1	AR, AD
+SLC5A5	AR
+SARS2	AR
+PC1	AR
+NECAP1	AR
+{FGFR1	AD
+DUP14q32	AD
+CYFIP2	AD
+KRT71	AD
+FANCD2	AR
+DIP2B	AD
+SLC5A7	AR, AD
+AIMP2	AR
+TAB2	AD
+AIMP1	AR
+{613927.0001})	AR
+{314850.0001})	X-linked
+DFNB62	AR
+LGMD1H	AD
+PITX3	AD
+PSNP2	AD
+C21ORF2	AR
+DNAJC3	AR
+MID2	XLR
+DCLRE1C	AR
+MID1	XLR
+DCPS	AR
+WDR35	AR
+DNA2	AR, AD
+IID6	AR
+SIN3A	AD
+CBS	AR
+SMARCA4	AD
+PDB4	AD
+TERC	AD
+CFAP43	AR
+FAT	AR, AD
+TBX22	X-linked
+VPS33B	AR
+FAH	AR
+RIPPLY2	AR
+SYNJ1	AR
+SMOH	Somatic mosaicism
+HEY	Y-linked vs. autosomal or both
+TBX4	AD
+ECEL1	AR
+SPG4	AD
+TERT	AD
+NBAS	AR
+PTHB1	AR
+KRT12	AD
+ZNHIT3	AR
+KLK4	AR
+HK1	AR, AD
+STAC3	AR
+TAF2	AR
+DEL15q26qter	Isolated cases
+OTDD	AD
+SLCO2A1	AR
+HBFQTL2	AD
+IL11RA	AR
+AP4E1	AR, AD
+GTPBP3	AR
+GTPBP2	AR
+MADH4	AD
+VEGFC	AD
+HPCQTL19	Somatic mutation
+DEL16p12.1p11.2	Isolated cases
+WDPCP	AR
+CASP2	AR
+OTSC10	AD
+C16DELq22	Isolated cases
+DRD4	AD
+DRD5	AD
+DRD3	AD
+CASP8	AR, Somatic mutation, AD
+DFNB96	AR
+ALX3	AR
+PURA	AD
+SLC9A1	AR
+DYT1	AD
+NPHP4	AR
+STX11	AR
+CLIC5	AR
+BCL6	XLD
+PICALM	AD
+T	AR, AD
+CNTN2	AR
+ACP4	AR
+DUP22q13	Isolated cases
+PIBF1	AR
+ADPRHL2	AR
+MAN2B1	AR
+PLK1	AR
+CLN8	AR
+CCV	AD
+MC2R	AR
+HRPT2	AD
+{122561})	AD
+CCDC28B	AR
+PIH1D3	XLR
+AKT2	AD
+OAT	AR
+LYRM7	AR
+EVC2	AR, AD
+LYRM4	AR
+CLIC2	XLR
+HIBCH	AR
+NKX2-1	AD
+NKX2-5	AD
+ATP2B2	AR
+A contiguous gene deletion syndrome caused by a deletion (3.9 Mb) of chromosome 2p16.1-p15 {UMLS C2675881}	Isolated cases
+HTRA	AR, AD
+STUB1	AR, AD
+WM1	AD
+ZP2	AR
+VSPA	XLR
+OAS1	Autosomal recessive susceptibility
+TRMT1	AR
+CAPN5	AD
+CAPN3	AR, AD
+CACNA2D4	AR
+CAPN1	AR
+SERPINA6	AD
+MYC	Isolated cases
+Caused by deletion (1.7Mb) of 1q41-q42 {UMLS C3278238}	Isolated cases
+CHMP	AR, AD
+Contiguous gene syndrome caused by 324-kb deletion on 19q13.11 {UMLS C4314860}	AD
+CSPG2	AD
+SMAD3	AD
+OASD	X-linked
+ENTPD1	AR
+HPC4	Somatic mutation
+COG2	AR
+ALOX5	Autosomal dominant vs. multifactorial
+NOD2	AD, Multifactorial
+FLI1	Isolated cases, AD
+COG6	AR
+DYN2CH1	AR
+COG4	AR, AD
+DLEC1	Somatic mutation
+KLHL7	AR, AD
+IGHMBP2	AR
+KLHL3	AD
+TUBA8	AR
+IBD3	AD
+BZX	XLD
+SERPINB7	AR
+SERPINB6	AR
+KCNMB1	AD
+TAF13	AR
+PCGF2	AD
+TNFRSF10B	AR
+MAGED2	XLR
+STX16	AD
+PX	AR
+XIAP	XLR
+Caused by mutation in the protease inhibitor 1 gene (PI	AR
+MSTO1	AR
+ATP8B1	AR, AD
+HCF2	AD
+NBS1	AR
+UBA	X-linked
+Caused by contiguous gene deletion at chromosome 2q37 {UMLS C4315391}	AD
+DFNB71	AR
+ELP4	AD
+BBS4	AR
+CFTR	AR, AD
+PXDN	AR
+MBTPS2	XLR
+MPD3	AD
+DEP	AD
+DES	AD
+POC1	AR
+SPECC1L	AD
+ST14	AR
+DNAJC5	AD
+CCDC115	AR
+NPRL3	AD
+NPRL2	AD
+AMH	Autosomal recessive with male sex limitation
+UBAP1	AD
+GLS	AR, AD
+RPSA	AD
+AMN	AR
+NYS2	AD
+NYS3	AD
+ASXL3	AD
+ASXL2	AD
+TNXB	AR, AD
+SOHLH1	AR, AD
+NYS4	AD
+NYS5	XLD
+GUCY1A1	AR
+GUCY1A3	AR
+SPG41	AD
+NEUROG3	AR
+DFNB85	AR
+GBA2	AR
+POLH	AR
+AMT	AR
+LZTS1	Somatic mutation
+DCHS1	AR, AD
+RAB7A	AD
+SGPL1	AR
+SPATA16	AR
+TLL1	AD
+EFEMP1	AD
+DEL8q21.11	AD
+EFEMP2	AR
+O	AR, AD
+RNF6	Somatic mutation
+GATOR1	AD
+DFNB65	AR
+PLEC	AR, AD
+PMM2	AR
+SERAC1	AR
+MTNR1B	AD
+TRIM44	AD
+PSHK2	AD
+PDE6H	AD
+BSCL2	AR, AD
+IVD	AR
+CARMIL2	AR
+PEX3	AR
+PEX2	AR
+PEX5	AR, Autosomal recessive, several forms
+IVA	AR
+PEX7	AR
+PEX6	AR
+{313700.0001})	XLR
+POMGNT1	AR
+POMGNT2	AR
+TMEM15	AR
+YUHAL	AD
+BEAN	AD
+CPS1	AR
+ARVD4	AD
+TONSL	AR
+HECW2	AD
+132E	AR
+WNT5A	AD
+ASPN	AD
+RBM28	AR
+MRT33	AR
+NCF2	AR
+MRT31	AR
+MRT30	AR
+CLDN16	AR
+ACF	AD
+CLDN14	AR
+NCF4	AR
+PGM3	AR
+NR2F1	AD
+DYNC1H1	AD
+NEB	AR
+EPHA2	AD
+TENM3	AR
+COL5A2	AD
+NCAPG2	AR
+HFM	AD
+DEL17q23.1q23.2	Isolated cases
+ARVD3	AD
+RING	AR, AD, X-linked
+HFE	AR, AD
+GAD1	AR
+Balanced reciprocal translocation between chromosomes X and 15 {UMLS C4230958}	XLD
+CTRCT35	AR
+MPZL2	AR
+PHYH	AR
+TBK1	AD
+GPR143	X-linked
+MRPS34	AR
+JPH1	AR
+TBC1D7	AR
+C21orf59	AR
+TRMT5	AR
+MRX95	XLD
+KNL1	AR
+KDM6B	AD
+COD2	X-Linked
+CITED2	AD
+FGF10	AD
+FGF17	Autosomal dominant (see MISCELLANEOUS below)
+AMHR2	Autosomal recessive with male sex limitation
+FGF14	AD
+TBXA2R	AD
+S22	AR
+MACF1	AD
+POMP	AR, AD
+TALDO1	AR
+DEL11p13	AD
+WRAP53	AR
+MTHFS	AR
+Caused by non-Robertsonian constitutional translocation	Inherited chromosomal imbalance
+COL9A2	AR, AD
+COL9A3	AD
+PDSS1	AR
+COL9A1	AD
+CC2D2A	AR
+Contiguous gene syndrome caused by duplication (1.5 - 3.0 Mb) of chromosome 22q11.2 {UMLS C2750709}	AD
+POMC	AR, AD
+SYNE1	AR, AD
+KCNB1	AD
+SYNE4	AR
+TNFRSF13C	AR
+NAT2	AR
+POMK	AR
+SEMA3A	Autosomal dominant (see MISCELLANEOUS below)
+DEGS1	AR
+AURKA	Somatic mutation
+TRPS1	AD
+SEMA3E	AD
+DATE	AR
+SETX	AR, AD
+XECD	XLD
+RIN2	AR
+MET	AR, AD, Somatic mutation
+ORC6	AR
+WWOX	AR, Somatic mutation
+UCHL1	AR
+DNM1	AD
+STEAP3	AD
+ATP6B1B2	AD
+SHANK3	Isolated cases, AD
+PVOP1	AD
+RPS10	AD
+RPS17	AD
+SPATA5	AR
+EIF2B2	AR
+RPS14	Somatic mutation
+SCA20	AD
+CLPP	AR
+ARL3	AR, AD
+CCDC22	XLR
+BCL11A	AD
+SCA25	AD
+SLC6A8	XLR
+ARL6	AR
+FRMD4A	AR
+VHL	AR, AD
+NK2	AD
+DDOST	AR
+ODZ3	AR
+RIPK4	AR
+NK6	AR
+EED	AD
+LAMA4	AD
+CLPB	AR
+AFG3L2	AR, AD
+MBS3	AD
+Contiguous gene deletion of between 0.6 - 4.8 Mb on chromosome 15q14 {UMLS C4227464}	AD
+PAPSS2	AR
+A11	AR, AD
+A10	AR
+GRHL2	AR, AD
+A12	AR
+UBQLN2	XLD
+SLC9A3R1	AD
+CCBE1	AR
+WARS2	AR
+GCLC	AR
+AKAP9	AD
+A1	AR, AD, XLR
+A3	AR, AD
+A2	AR, AD
+A5	AD
+TRMT10C	AR
+A6	AR, XLD, AD
+A9	AR
+MTATP6	AR, Mitochondrial
+MECP2	XLD, XLR, X-linked
+cystine	AD
+PAK1	AD
+KCNJ13	AR, AD
+RAX2	AD
+KCNJ11	AR, AD
+KCNJ10	AR
+TFAM	AR
+NAGS	AR
+T7	AR
+C4H2	XLR
+T2	AR, AD
+T3	AD
+T1	AR
+IRNAR2	AR
+TNF	Autosomal dominant vs. multifactorial, AR, AD
+MCOLN1	AR
+TNC	AD
+NAGA	AR
+LIPT1	AR
+MYND	AR, AD
+RASA1	AD
+ADD3	AR
+ACTN2	AD
+ACTN1	AD
+PTCH1	AD
+RNU4ATAC	AR
+SLC40A1	AD
+PTPRQ	AR, AD
+ACTN4	AD
+CLP1	AR
+PDE6B	AR, AD
+PLEKHM1	AR, AD
+C1QTNF5	AD
+KCNT1	AD
+PTPRF	AR
+FTSJ	XLR
+KCNT2	AD
+PTPRC	AR, Multifactorial
+RP6	X-linked
+CARTPT	AD
+KRT25	AR
+CCDC103	AR
+MYO7A	AR, AD
+PTPRJ	Somatic mutation
+AARS2	AR
+PGAP1	AR
+BPTF	AD
+PGAP3	AR
+PGAP2	AR
+CPO	AD
+IFT43	AR
+STK11	Somatic mutation, AD
+STT3	AR
+IFNAR2	AR
+MFAP5	AD
+RARS2	AR
+HPRHP	AD
+CST	AR
+106B	AD
+SCN3A	AD
+TWNK	AR, AD
+SLC6A5	AD
+AGSPX	XLD
+BRCA1	AR, AD
+NDUFB8	AR
+GALNT3	AR
+PDE10A	AR, AD
+PHIP	AD
+RTN4R	AD
+DMPK	AD
+RCD1	AD
+OFD1	XLD, XLR
+VAC14	AR
+PIK3R2	AD
+ACPT	AR
+MBS2	AD
+WDR4	AR
+PLEC1	AR, AD
+DIAPH1	AR, AD
+DIAPH2	XLD
+DIAPH3	AD
+WIPI2	AR
+KIF1A	AR, AD
+DEL1q41q42	Isolated cases
+DMP1	AR
+{117700.0001}).	AR
+PAND1	AD
+P	AR, XLR
+Caused by duplication of 186-260kb on 16p13.3 {UMLS C3278863}	AD
+SMARCD2	AR
+RMND1	AR
+GATA6	AD
+SWIRM	AR
+GATA4	AD
+GATA5	AD
+GATA2	AD
+GATA3	AD
+GATA1	Isolated cases, XLR
+DIH1	Multifactorial
+SPGF2	AD
+DIH2	Autosomal recessive vs. multifactorial
+TRIOBP	AR
+MYP19	AD
+CCND1	Somatic mutation, AD
+GM2A	AR
+SNAP29	AR
+HMPS1	AD
+CEP290	AR
+UBIAD1	AD
+TCF12	AD
+LAT	AR
+CSRP3	AD
+DLX3	AD
+LAP	AD
+RMRP	AR
+RFXANK	AR
+TNFSF11	AR
+IDDM6	Autosomal locus and allelic heterogeneity
+ATP6V1A	AR, AD
+GRD1	Autosomal recessive vs. dominant with relative sex limitation to females and reduced penetrance postulated, but more likely multifactorial
+13A	AR
+Caused by mutation in the LAS1-like ribosome biogenesis factor gene (LAS1L. {300964.0001})	XLR
+BARD1	AD
+UROS	AR
+B3GAT3	AR
+SFXN4	AR
+PUM1	AD
+BRP44L	AR
+UROD	AD
+CRIPT	AR
+CRYBA1	AD
+DUP8q22.1	AD
+SERPINE1	AR
+TNNT1	AR
+MTND6	AR, Mitochondrial
+TNNT3	AD
+TNNT2	AD
+PJVK	AR
+SOX10	AD
+SOX11	AD
+IL17RC	AR
+MSH3	AR
+KCNMA1	AR, AD
+RORB	AD
+CAV3	AD
+EFTUD2	AD
+ABCA5	AR
+ISG15	AR
+C4A	AR
+C12orf65	AR
+MYP17	AD
+DAOA	AD
+MTND3	AR, Mitochondrial
+PDLIM4	AD
+ARL13B	AR
+STAG1	AD
+A2ML1	AD
+SLSN3	AR
+ABCA1	AR, AD
+DFNX3	X-linked form
+MME	AR, AD
+NFASC	AR
+SPG24	AR
+SCARF2	AR
+GDI1	XLD
+FTL	AD
+FTO	AR
+IGH	Somatic mutation
+USP8	Autosomal recessive vs. dominant MEN1
+MRX89	XLD
+CEP63	AR
+ERLIN1	AR
+BMND8	AD
+IBD21	AD
+GFM2	AR
+SPG20	AR
+PSAP	AR
+ABCB11	AR
+CBL	AD
+LDLRAP1	AR
+SLC22A4	Unproved inheritance
+WDR34	AR
+CBP	AD
+KRT14	AR, AD
+KRT13	AD
+PDE6G	AR
+PDE6D	AR
+KRT10	AD
+EDSS2	AR
+FLNA	XLD, XLR, X-linked
+FLNB	AR, AD
+FLNC	AD
+PRDM8	AR
+C8orf37	AR
+EIF4A3	AR
+KRT18	Autosomal recessive cases, probably heterogeneous
+DEL3q13.31	AD
+DNMT1	AD
+AB	AD
+DENND5A	AR
+Caused by duplication of 8q22.1-qter and deletion of 8pter-p23.1 {UMLS C2750055}	AD
+WISP3	AR
+ANIB1	AD
+SMS	XLR
+TLE6	AR
+S29	AD
+TP73L	AD
+POLG	AR, AD
+SLC4A4	AR
+POLE	AR, AD
+PRKCSH	AD
+SLC4A1	AR, AD
+HGSNAT	AR
+NPC1	AR
+PLP1	XLR
+DCTN1	AD
+RNASET2	AR
+CDC6	AR
+DONSON	AR
+NDUFV3	AR
+PKLR	AR, AD
+NDUFV1	AR
+ASPA	AR
+CIITA	AR, Unproved inheritance
+CD27	AR
+CASQ2	AR
+ASPH	AR
+KIAA1109	AR
+HFM1	AR
+RBM12	AD
+DFNA52	AD
+RBM10	XLR
+{107400.0001})	AR
+ARCI7	AR
+STXBP1	AD
+ZEB2	AD
+LAMA1	AR
+LAMA2	AR
+LAMA3	AR
+MRT28	AR
+MRT29	AR
+L44	AR
+MRT24	AR
+MRT25	AR
+DGAT1	AR
+CHRDL1	XLR
+HWE1	AD
+MRT23	AR
+WDR62	AR
+MVD	AD
+IL12RB1	AR
+MVK	AR, AD
+Caused by deletion of 3.0-30.0Mb on 14q11-q22 {UMLS C3278856}	Isolated cases
+GOSR2	AR
+YAP1	AD
+MGR2	X-linked
+MGR3	AD
+F2	AR, AD, Multifactorial predisposition
+CUL7	AR
+MGR6	AD
+F5	AR, AD, Multifactorial predisposition
+MGR4	AD
+MGR5	AD
+F8	XLR
+F9	XLR, AD
+SUCLA2	AR
+11B	AR, AD
+ATP6V1E1	AR
+SM1	AD
+PLOD	AR
+MRX82	XLR
+ABCA7	AD
+ABCA4	AR, AD
+MRX81	XLR
+MTND2	AR, Mitochondrial
+VIII	AR, AD, XLR
+MRX84	XLR
+MARS	AR, AD
+RFT1	AR
+MRX88	X-linked
+CPVT3	AR
+TUBGCP4	AR
+VIIA	AR, AD
+TUBGCP6	AR
+SGMS2	AD
+CFD	AR
+SDC3	AD
+KCNC1	AD
+KCNC3	AD
+LGV1	Possible monogenic influence at a relatively small number of loci
+FLAD1	AR
+GM2	AR
+IGSF1	XLR
+PTHR1	AR, AD
+MYOT	AD
+CTNNB1	AD, Somatic mutation, Somatic
+MITF	AR, AD
+HTC2	XLD
+HOXD10	AD
+XVIII	AR
+MYOC	AD
+AQP2	AD
+THRA	AD
+FYB1	AR
+Caused by partial duplication of mtDNA {UMLS C3151966}	Mitochondrial
+FXN	AR
+GPX1	AR
+HIT	AR
+HSD11B1	AD
+KIAA0568	AR
+MAD1L1	Somatic mutation
+NHL	AR
+CHI3L1	AD
+FBP1	AR
+MAB21L1	AR
+MAB21L2	AD
+NSUN2	AR
+SLCO5A1	AD
+ORP1	AD
+ELOVL5	AD
+PROP1	AR
+NHS	XLD, X-linked
+OCRL1	XLR
+RPGRIP1L	AR
+CNOT1	AD
+APOL4	AD
+HSD17B4	AR
+APOL2	AD
+Caused by deletion of 6-12Mb on 3pter-p25 {UMLS C3279183}	AD
+TTLL5	AR
+NOS1	AD
+ITGB3	AR, AD
+NOS3	AD, Multifactorial, Multifactorial predisposition
+LTBP3	AR, AD
+LTBP2	AR
+ITGB6	AR
+AEBP1	AR
+SCN8A	AD
+GAN	AR
+RTN2	AD
+Q	AR, AD
+MDLS	AD
+YARS2	AR
+ATN1	AD
+IRF2BPL	AD
+SUFU	AR, AD, Somatic
+APC2	AR
+HGD	AR
+SLC25A4	AR, AD
+IGHM	AR
+MYORG	AR
+CRAT	AR
+PER3	AD
+SCZD7	AD
+ZC4H2	XLR
+PMPCA	AR
+MTTS1	AR, Mitochondrial, AD
+MTRNR1	Mitochondrial
+DDX11	AR
+MYO6	AR, AD
+MBD5	AD
+PAPA5	AR
+TUBB3	AD
+ZNF469	AR
+DEL15q11.2	AD
+S34	AR
+Caused by deletion of 1.0-2.5Mb on chromosome 17q12 {UMLS C3553195}	AD
+ACER3	AR
+FAM111A	AD
+NDUFA6	AR
+DEC1	Somatic mutation
+MLPH	AR
+GDP	XLD
+TPRKB	AR
+COL11A1	AR, AD
+COL11A2	AR, AD
+MPC1	AR
+TGDS	AR, AD
+SIAT9	AR
+TSPAN12	AD
+GNPAT	AR
+MAT1A	AD
+GJB4	AD
+HPS5	AR
+FLJ90130	AR
+EGI	AD
+AGPS	AR
+HPS1	AR
+PKP2	AD
+SLC25A19	AR
+SLC25A15	AR
+GCM2	AD
+SLC25A13	AR
+EGF	AR
+SLC25A11	AD
+DGCR2	AD
+LBR	AR, AD
+RAB	AR
+TUBA3D	AD
+SAD1	AR
+RAN	AR
+NFE2L2	AD
+EPX	AR
+CCAL1	AD
+SPG36	AD
+SLC17A8	AD
+Contiguous gene deletion syndrome caused by microdeletion (43-490kb) of chromosome 11q13 {UMLS C2750334}	AD
+SLC12A6	AR
+SLC12A1	AR
+RAS	NA, Somatic mutation, AR, AD, Somatic
+NDUFA12	AR
+NDUFA13	AR
+alpha-1 gene ({137160.0003})	AD
+Caused by interstitial duplication (3.7Mb) of 17p11.2 {UMLS C3277777}	Isolated cases
+ICR1	Autosomal dominant (loss of paternal allele), AD
+EVR3	AD
+FGA	AR, AD
+RAX	AR
+CDK10	AR
+KAT8	AD
+IFT52	AR
+EXT3	AD
+EXT2	AR, AD
+IFT57	AR
+DJ1	AR
+LKMCD	XLR
+Caused by mutation in the androgen receptor gene (AR	XLR
+XYLT2	AR
+{120900.0006})	AD
+LPP	AD
+EYS	AR
+LPL	AR, AD
+2.4% {UMLS C1860799};\nTranslocation 21	Isolated cases
+PIP5K1C	AR
+Caused by mutation in the transcription factor 3 gene ({147141.0001})	AD
+KIRREL3	AD
+PFM3	AD
+LPA	AD
+ZAK	AR
+13C	AR
+13B	AR
+GPDS1	AD
+HSD17B3	AR
+NDUFA11	AR
+ARID1B	AD
+Susceptibility conferred by mutation in the complement component 3 gene (C3	AD
+VII	AR, AD
+C1QC	AR
+C1QB	AR
+C1QA	AR
+VIM	AD
+Contiguous gene deletion of 91.6 kb to 4.74 Mb on chromosome 16p13.2 {UMLS C4227580}	AD
+MAMLD1	XLR
+AIH3	X-linked
+PTPN12	Somatic mutation
+MMAA	AR
+ALDH5A1	AR
+XRCC1	AR
+WFS1	AR, AD
+TYR	AR, AD
+DIABLO	AD
+ALG8	AR, AD
+PDXK	AR
+STAR	AR
+VLDLR	AR
+ALG2	AR
+ALG3	AR
+ALG1	AR
+FUZ	AD
+NOS2	Multifactorial
+MASP1	AR
+ABL1	AD
+ADHD2	AD
+ITGB2	AR
+SLC29A3	AR
+WHRN	AR
+COX6B1	AR
+TAC3R	AR
+KIF22	AD
+ITGB4	AR, AD
+PKS	Somatic mosaicism
+SLC11A2	AR
+MRXSCS	XLR
+MROS	AD
+CEL	AD
+IHH	AR, AD
+INSL3	AD
+FTSJ1	XLR
+IA	AR
+KLHL24	AD
+FIG4	AR, AD
+RAB11B	AD
+TBC1D8B	X-linked
+CLDN1	AR
+HYDIN	AR
+PHKG2	AR
+ORAI1	AR, AD
+ENUR1	Autosomal dominant (13q13-q14.3)
+CHS1	AR
+ENUR2	AD
+STH	AD
+MRXSMP	XLR
+{605739.0001})	AR
+MRAS	NA
+MRAP	AR
+RAG2	AR
+DLAT	AR
+DEL3pterp25	AD
+TELO2	AR
+SLC24A1	AR
+TUBB2A	AD
+ZBTB20	AD
+SERPIND1	AD
+NUDT15	AD
+IRF3	AD
+IRF1	Somatic mutation
+RP63	AD
+RNASEH2A	AR
+IRF6	AD
+RNASEH2C	AR
+RNASEH2B	AR
+8B	AR, AD, X-linked
+CD3D	AR
+IRF8	AR, AD
+TUBB	AD
+CTAA1	AD
+MAOA	XLR
+2A1	AR
+DNMT3B	AR
+PDX1	AR, AD
+ETFB	AR
+PEX1	AR
+MUT	AR
+MNG2	XLD
+EFNB1	XLD
+JBS	Isolated cases
+PI4KA	AR
+HDAC6	XLD
+PMP2	AD
+ZFHX4	AD
+GFND1	AD
+CCDC50	AD
+AHI1	AR
+ZFHX3	Somatic mutation
+ZFHX2	AD
+Caused by mutation in the 72-kD signal recognition particle gene (SRP72. {602122.0001})	AD
+HGF	AR
+PGAM2	AR
+KIF11	AD
+CHAT	AR
+KTCN7	AD
+AKR1C4	AR
+L18	AD
+XYLT1	AR
+GP1BB	AR
+GABRA1	AD
+ITIH4	AD
+FECH	AR
+GABRA2	Probably multifactorial, genetically influenced
+ASS	AR
+NLRP7	AR
+NLRP1	AD
+ZBTB16	AR
+NLRP3	AD
+MIR204	AD
+PSEN2	AD
+PSEN1	AD
+ZBTB18	AD
+CDT1	AR
+C1QBP	AR
+FCSK	AR
+WDR26	AD
+RAB18	AR
+TRAPPC11	AR
+RJBS	AR
+TRAPPC12	AR
+PAFC	AD
+CST3	AD
+SRP72	AD
+TNFSF7	AR
+MED23	AR
+TNFSF5	XLR
+GTDC2	AR
+KLHL10	AD
+VPS33A	AR
+UFM1	AR
+KLHL15	XLR
+CSTB	AR
+MED25	AR
+NAGLU	AR, AD
+CSTA	AR
+GMPPA	AR
+GMPPB	AR
+DFNB40	AR
+WDFY3	AD
+occasionally due to interstitial duplication of 22q11 {UMLS C3805408}	AD
+MTOR	AR, Somatic mutation, AD
+LAMP2	XLD
+ACADSB	AR
+DFNB47	AR
+PTOS2	XLD
+PTOS1	AD
+LRSL	Isolated cases
+PIP5K3	AD
+TRIT1	AR
+ITK	AR
+KIF1B	AD
+KIF1C	AR
+DLC1	Somatic mutation
+TCTN2	AR
+GLI	AR
+KN	AR
+ALDH2	AD
+KL	AR
+OMS	AD
+SHOC2	AD
+RAD51	AR, AD
+UVSSA	AR
+SEPT9	AD
+45B	AR
+REEP6	AR
+NEU1	AR
+POU4F3	AD
+IFNGR1	Not determined, AR, AD
+SRCAP	AD
+MTTS2	Mitochondrial
+AAA	AR, AD
+DFNA16	AD
+TCTN3	AR
+ERCC2	AR
+ERCC3	AR
+LCAT	AR
+ERCC5	AR
+ERCC6	AR, Somatic mutation, AD
+SCN9A	AR, AD
+CD244	Unproved inheritance
+MRPS16	AR
+Caused by mutation in the gamma-aminobutyric acid receptor	AD
+SOX9	AD
+NLRP12	AD
+SOX2	AD
+SOX3	XLD, X-linked
+DUP3q29	AD
+HIP1	Somatic mutation
+SOX4	AD
+SOX5	AD
+TRDN	AR
+LOXL1	AD
+CEBPA	AD
+KWE	AD
+ASAH1	AR
+CEBPE	AR
+XH2	XLR
+PRKG1	AD
+UNC119	AD
+SRS	Autosomal dominant (loss of paternal allele)
+XRCC4	AR
+DVL3	AD
+MED12	XLR
+DVL1	AD
+TNNI2	AD
+TNNI3	AR, AD
+PRIMPOL	AD
+ABCB4	AR, AD
+NACHT	AR
+LMAN2L	AR
+TTPA	AR
+MHS2	Autosomal dominant form (unlinked to 19q13.1-q13.2)
+MFSD8	AR
+KCND3	AD
+TCTN1	AR
+KLKB1	AR
+TPP1	AR
+TEAD1	AD
+TMEM240	AD
+SLC9A6	XLD
+CYBB	XLR
+CYBA	AR
+Caused by microduplication of 3q29 {UMLS C2677798}	AD
+TNFRSF11A	AR, AD
+MRX53	XLR
+PPP3CA	AD
+SLE	AD
+MRX50	X-linked
+CEACAM16	AR, AD
+CTNS	AR
+CIDEC	AR
+CTNNA2	AR
+CTNNA3	AD
+ERCC8	AR
+ETS	AD
+RAD51C	AR
+SPTAN1	AD
+CLEC7A	AR
+BFIS1	AD
+LCA5	AR
+NOTCH2	AD
+NOTCH3	AD
+EGR2	AR, AD
+SEC23	AR, AD
+AMME	XLR
+ADH1B	Probably multifactorial, genetically influenced
+AA2	AD
+KAT6B	AD
+CACNG2	AD
+SLC1A3	AD
+TGIF1	AD
+MUSK	AR
+HSF4	AD
+CRLF1	AR
+NKX2E	AD
+ACAT1	AR
+BGN	XLR, X-linked
+MEIS2	AD
+MYL4	AD
+TGM3	AR
+MYL2	AD
+MYL3	AD
+SCASI	AR
+MYL1	AR
+ATP2C1	AD
+GHSR	AD
+SLC30A2	AD
+HYT1	Multifactorial
+IGAN2	AD
+POC1A	AR
+LINGO1	AR
+DEL15q14	AD
+SELENBP1	AR
+BHLHE41	AD
+PARK7	AR
+EML1	AR
+RORC	AR
+S1PR2	AR
+BOS2	AD
+MAPK8IP1	AD
+POU6F2	AD
+{136850.0001})	AR
+MCOPCT1	AD
+YARS	AD
+MAGI2	AR
+MYRF	AD
+HYT4	Multifactorial
+STAT2	AR
+HUWE1	X-linked
+CETP	AD
+SYT14	AR
+LAS1L	XLR
+ACRPV	AD
+NARS2	AR
+EXTL3	AR
+C10ORF2	AR, AD
+ETFDH	AR
+THO	AR, XLR
+ANXA11	AD
+SLC25A20	AR
+PH	AR
+SLC25A26	AR
+PNPLA8	AR
+SLC25A24	AD
+ARHGDIA	AR
+VPS35	AD
+IL1	XLR
+ROR2	AR, AD
+ROR1	AR
+PLA2G4A	AR
+RSPO2	AR
+RSPO1	AR
+ATIC	AR
+NIN	AR
+RSPO4	AR
+CDK13	AD
+DHODH	AR
+FAAHP1	AD
+MYLK	AD
+KIT	Somatic mutation, AD
+HPS6	AR
+ASL	AR
+EDAR	AR, AD
+NCAPH	AR
+MYO5B	AR
+MYO5A	AR
+COPB2	AR
+KCNV2	AR
+SNTA1	AD
+MPIG6B	AR
+Contiguous gene deletion syndrome caused by deletion (3.4 kb) of chromosome Xq28 {UMLS C3275434}	XLR
+APP	AD
+KAOGS	Autosomal dominant (loss of maternal allele)
+PLCB1	AR
+TSHB	AR
+CRX	Autosomal dominant (19q13.1-q13.2)
+ADNP	AD
+GPX4	AR
+C10ORF11	AR
+NOP10	AR
+HRM2	AD
+RXYLT1	AR
+ABCD1	XLR
+TSHR	AR, AD
+ECA1	AD
+AP4B1	AR
+B9D2	AR
+B9D1	AR
+JARID1C	XLR
+PR	AR, AD
+SDHAF1	AR
+3.3% {UMLS C1860800}	Isolated cases
+SUMF1	AR
+GLDN	AR
+NONO	X-linked
+WNK	AD
+GLDC	AR
+HECT	AR, AD, X-linked
+SLC25A12	AR
+MKS1	AR
+Caused by mutation in the tyrosine hydroxylase gene (TH	AR
+RTN4IP1	AR
+GRIA3	XLR
+HARS	AR, AD
+B4GALT1	AR
+TRPM6	AR
+TRPM7	AD
+B4GALT7	AR
+PGK1	XLR
+FCN3	AR
+P3	XLR
+P1	AD
+TUBB8	AD
+CFAP69	AR
+NAXE	AR
+GNRH1	AR
+SGOL1	AR
+TRRAP	AD
+TUBB1	AD
+FAN1	AR
+S	AR, AD
+HERC2	AR
+DNA-directed)	AD
+PAPA2	AD
+MTND1	Mitochondrial
+ARV1	AR
+APTX	AR
+MGR1	AD
+DCN	AD
+HJCD	AR
+CR2	AR
+LCT	AR
+IMPG2	AR, AD
+GALK1	AR
+SPRY	AR
+IMPG1	AD
+OTOA	AR
+RNA	AR, Mitochondrial, AD, XLR
+SLURP1	AR
+OTOF	AR
+C4ORF26	AR
+Caused by mutation in the membrane-bound transcription factor protease	AR
+APOPT1	AR
+SKI	AD
+PCNA	AR
+XII	AR, AD
+STRC	AR
+AGTR1	AR, Multifactorial
+SYN2	AD
+LCK	AR
+SYN1	XLR
+ZNF644	AD
+PTH1R	AR, AD
+Contiguous gene syndrome caused by deletion (580kb-22.5Mb) of 3q13.31 {UMLS C3809502}	AD
+D10	AD
+D13	Isolated cases, AD
+GATAD1	AR
+MMVP1	AD
+KCTD1	AD
+MMVP3	AD
+MEIS1	AD
+USP18	AR
+LAMC2	AR
+TNIK	AR
+DARS2	AR
+EIF3F	AR
+CDSN	AR, AD
+CD3	AR
+DNAAF1	AR
+PSTPIP1	AD
+DNAAF3	AR
+DNAAF4	AR, AD
+DNAAF5	AR
+SLC17A5	AR
+POFUT1	AD
+IFT27	AR
+SLC12A5	AR, AD
+EEC1	AD
+SNX14	AR
+STAT3	AD
+SEC23A	AR
+SEC23B	AR, AD
+SNX10	AR
+CD81	AR
+MAP11	AR
+HPRT1	XLR
+CD82	Somatic mutation
+MRX14	X-linked
+BEAN1	AD
+MARK3	AR
+NDUFA10	AR
+DPM3	AR
+DPM2	AR
+DPM1	AR
+P3H2	AR
+CYP27B1	AR
+IGBP1	XLR
+SLC12A3	AR
+MC1R	AR
+CRYAB	AR, AD
+FADD	AR
+LRTOMT	AR
+NOLA3	AR
+NOLA2	AR
+142A	AR
+AGA1	AD
+OPHLC	Isolated cases
+ELG9	AD
+OCLN	AR
+ESR2	AD
+GABRB2	AD
+GABRB3	AD
+RCHTS	AR
+NEUROD2	AD
+PORCN	XLD
+NRCLP3	AD
+NEUROD1	AD
+LRP6	AD
+LRP4	AR, AD
+LRP5	AR, AD
+MENOQ1	XLD
+ASNS	AR
+PTLAH	AD
+PLG	AR
+NANOS1	AD
+WDR11	AD
+TMTC3	AR
+FGB	AR
+A contiguous gene syndrome caused by deletion of the alpha-1 hemoglobin ({141800}) and alpha-2 hemoglobin ({141850}) genes	AD
+STN1	AR
+PLN	AD
+WDR19	AR
+AICDA	AR
+PDE4D	AD
+CFC1	AD
+CDH11	AR
+STIM1	AR, AD
+RLS1	AD
+SLC3A1	AR, AD
+ANTXR1	AR, AD
+SLC25D1	AR
+ANTXR2	AR
+WASP	XLR
+FANCA	AR
+SPG29	AD
+PRDM6	AD
+CYCS	AD
+PTPRO	AR
+MAP2K2	AD
+MAP2K1	AD
+USP9Y	Y-linked (Yq11.23)
+MIR17HG	AD
+WS2B	Autosomal dominant not linked to PAX3 or 2q35
+GPD2	AD
+NLRC4	AD
+DFNB55	AR
+CNBP	AD
+NEXMIF	XLD
+MICU1	AR
+PTPN22	Autosomal recessive susceptibility, AD, Unproved inheritance
+6H	AD
+CNTNAP1	AR
+FEB2	AD
+FEB5	AD
+EXT1	AR, AD
+TRAPPC2L	AR
+FEB6	AD
+FEB9	AD
+NEFL	AD
+CHIT1	AR
+IMP5	AD
+NEFH	AD
+UGT1A1	AR, Major gene effect in 11.5% of persons analyzed
+TPO	AR
+NIPBL	AD
+GAL	AD
+ATF6	AR
+SERPINI1	AD
+AVPR2	XLR
+ELAC	AR
+GAA	AR
+HLA-DR1B	AD
+WNT2B	AR
+KMT2B	AD
+KMT2A	AD
+HSPB3	AD
+HSPB1	AD
+MTR	AR
+CYP4V2	AR
+C21ORF59	AR
+HSPB8	AD
+MTTQ	Mitochondrial
+ARNT2	AR
+PHF6	XLR
+SUCLG1	AR
+RHOBTB2	AD
+PSS	Contiguous gene syndrome (11p13-p11 region)
+ALDOA	AR
+SLITRK1	AD
+ALDOB	AR
+ADAM22	AR
+DIS3L2	AR
+DYT15	AD
+DYT17	AR
+HCFC1	XLR
+DYT13	AD
+ARX	XLR, X-linked
+MAPK	AR
+FSHB	AR
+CYC1	AR
+ZNF711	X-linked
+TIA1	AD
+PSAT1	AR
+HAGH	AD
+OTSC7	AD
+ABCC8	AD
+ABCC9	AD
+MAPT	Autosomal recessive vs. dominant with low penetrance and expression, AD
+OTSC3	AD
+DEL15q25	AD
+ABCC6	AR, AD
+EPG5	AR
+OTSC8	AD
+CDC45L	AR
+ABCC2	AR
+KCNE2	AD
+IGHR	AD
+GSS	AR
+KCNE1	AR, AD
+CNA1	AD
+WASHC4	AR
+BAG3	AD
+ADAMTSL2	AR
+TIR	AD
+DHCR7	AR
+CASP10	AD
+GSC	AR
+MRX45	X-linked
+HPCA	AR
+SCO2	AR, AD
+SCO1	AR
+BDNF	AD, Multifactorial
+THPO	AD
+CD247	AR
+HRG	AD
+MSR1	Somatic mutation
+SPINT2	AR
+AHDC1	AD
+AGBL1	AD
+PCCA	AR
+RYR1	AR, AD
+NDST1	AR
+MYMK	AR
+RYR2	AD
+MMADHC	AR
+DNASE1	AD
+LIG4	AR, Somatic mutation
+KIAA0825	AR
+CSNK1D	AD
+KHK	AR
+SFTPA2	AD
+KDF1	AD
+SFTPA1	AD
+EDN1	AR, AD
+RPIA	AR
+EDN3	AD
+NNT	AR
+MRPS2	AR
+IREB2	AR
+ISCU	AR
+DEL16p13.2	AD
+IL36RN	AR
+JAM3	AR
+RSPRY1	AR
+ECTD5	AR
+SAMD9L	AD
+ENPP1	AR, AD
+HYPT10	AR
+TSPAN7	XLR
+CACNA2D2	AR
+ATP2B3	XLR
+RHBDF2	AD
+NKX6-2	AR
+TDP1	AR
+TDP2	AR
+HPC5	Somatic mutation
+FDPS	AD
+HPC6	Somatic mutation
+KCTD17	AD
+FN1	AD
+HPC3	Somatic mutation
+PPP2CA	AD
+MEGF10	AR
+HBG2	AD
+HBG1	AD
+PPIP5K2	AR
+UQCC2	AR
+MEFV	AR, AD
+TCHH	AR
+B1	AR, XLD, AD
+B2	AR, AD
+B3	AR
+VUR	Autosomal dominant vs. multifactorial
+B8	AR
+B9	AR
+KDM5B	AR
+KDM5C	XLR
+DFNA43	AD
+NYX	XLR
+SLC20A	AD
+CTNND1	AD
+AIPL1	AR
+DWS	Isolated cases
+U4	AR
+EP300	Somatic mutation, AD
+TBX5	AD
+LRPPRC	AR
+PLS3	XLD
+H6PD	AR
+FA2H	AR
+CHCHD10	AD
+GLUL	AR
+BCHE	AR
+DNM2	AR, AD
+PSENEN	AD
+SPLRTN	AR
+MAPKAPK3	AD
+SLC25A38	AR
+P450	AR, AD
+PDHX	AR
+GIPC3	AR
+AP4S1	AR
+SH3GL1	AD
+TUBA1A	AD
+SCAR3	AR
+CPA6	AR, AD
+OTX2	AD
+PVRL1	AR
+Contiguous gene syndrome caused by duplication (700-kb) of chromosome 14q32 {UMLS C4228254}	AD
+PIK3R5	AR
+RNF170	AD
+PVRL4	AR
+PIK3R1	AR, AD
+SH3BP2	AD
+CPT2	AR, AD
+IFT122	AR
+SAMD9	AR, AD
+UMOD	AD
+CRYAA	AD
+SLC10A2	AR
+STAG2	X-linked
+STAG3	AR
+Caused by duplication of 1.0-2.5Mb on chromosome 17q12 {UMLS C3553157}	AD
+IFT74	AR
+KIAA1279	AR
+S19	AD
+GYS1	AR
+GYS2	AR
+NPHS2	AR
+AP5Z1	AR
+PPP2R1B	Somatic mutation
+NPHS1	AR
+PALB2	AD
+STT3A	AR
+Contiguous gene syndrome caused by 50-kb deletion of proximal 19q13.11 {UMLS C4313417}	AD
+RFXAP	AR
+TAF6	AR
+MMAB	AR
+11A	AR, AD
+H6	AR
+11C	XLR
+ETV6	AD
+EMP2	AR
+REEP2	AD
+SLC1A1	AR
+G6PD	XLD
+G6PC	AR
+CND	X-linked
+KIAA0442	AD
+ELMO2	AR
+16E	AR
+POMT1	AR
+U	AR, AD
+Caused by mutation in the glucosaminyl (N-acetyl) transferase 2	AD
+FAM111B	AD
+NIDDM4	AD
+GCSH	AR
+Caused by mutation in the plakophilin-2 gene ({602861.0001})	AD
+MRT19	AR
+S10	AD
+ALAD	AR
+POLG2	AD
+POF1B	XLR
+S17	AD
+FCGR2B	AD
+IDS	XLR
+S16	AR
+IYD	AR
+WD40	AR
+C8ORF38	AR
+{608786.0001})	AR
+HOXA11	AD
+SOS2	AD
+Caused by chromosomal mosaicism {UMLS C1845882}	Somatic mosaicism
+CYB5R3	AR
+ACAVLD	AR
+IKZF1	AD
+ARMC4	AR
+FUS	AD
+TICAM1	AD
+SMIM1	AR
+ARMC5	AD
+GUF1	AR
+GRAP	AR
+MTAP	AD
+PIBF	AR
+UBE2A	XLR
+HNRNPU	AD
+PACS1	AD
+POLD1	AD
+C11orf73	AR
+HNRNPK	AD
+MTCO2	AR
+MTCO3	AR, Mitochondrial
+FASL	AD
+XXVIC	AR
+REEP1	AD
+SLC25A32	AR
+DEL3q29	Isolated cases
+TCF20	AD
+XXVII	AR
+ZFYVE27	AD
+CECR1	AR
+CRELD1	AD
+PRUNE	AR
+ITPA	AR
+NFIB	AD
+TMEM127	AD
+ALG6	AR
+SLC13A3	AR
+HMGA2	Somatic mutation
+SLC13A5	AR
+ARL6IP1	AR
+HMGA1	AD
+CHRNA4	Genetic factors seem to contribute only in light smokers and heavy smokers, AD
+DSG2	AD
+SLC7A7	AR
+CHRNA1	AR, AD
+CHRNA2	AD
+SERPINF2	AR
+GTS	AD
+NCSTN	AD
+FEZ	AR
+TNNI3K	AD
+PBLT	Multifactorial
+MAPK8IP3	AD
+CEP152	AR
+ND2	Mitochondrial
+DICER1	Somatic mosaicism, AD
+PSPH	AR
+PCNT	AR
+TATA	AR, XLR, AD
+GLUD2	AD
+GLUD1	AD
+SLC6A16	AR
+DELXp11.3	XLR
+MGME1	AR
+ADHD4	AD
+E3B	AR
+E3A	Autosomal dominant (loss of maternal allele)
+DRPLA	AD
+USB1	AR
+CHP1	AR
+CLCN4	XLD
+CMD1B	AD
+AA1	Multifactorial
+SMARCE1	AD
+CIC	AD
+KARS	AR
+AARS	AR, AD
+PCNT2	AR
+RAB39B	XLR
+CD55	AR
+PRKCG	AD
+CPAMD8	AR
+CD59	AR
+HAX1	AR
+IL12B	AR
+KCNJ18	AD
+SLC33A1	AR, AD
+CHD4	AD
+CCDC11	AR
+LEPREL1	AR
+EXOSC3	AR
+OPLAH	AR
+EJM2	AR
+ACY1	AR
+PRPS1	XLR, X-linked
+HPLH1	AR
+DAO	AD
+ZBTB42	AR
+FIGLA	AD
+BCMO1	AD
+GLI2	AD
+GLI3	AR, AD
+BRPF1	AD
+GLI1	AR
+SORT1	AD
+DOK7	AR
+FSHR	Autosomal recessive vs. multifactorial, AD, AR
+MCEE	AR
+C6orf221	AR
+YME1L1	AR
+LDHA	AR
+ZFP57	Autosomal dominant (loss of maternal allele)
+SHROOM4	X-linked
+COL8A2	AD
+PDGFB	AD
+LONP1	AR
+ACTL6B	AD
+CUBN	AR
+ORC4	AR
+MTND4L	Mitochondrial
+ADHD1	AD
+PLAU	AD
+ORC1	AR
+GLIS	AR
+GPC3	AD, XLR
+GPC4	XLR
+CFL2	AR
+GPC6	AR
+ARMC9	AR
+CACNA1H	AD
+PLAA	AR
+SCA30	AD
+4B	XLR
+BICD2	AD
+4A	AR, AD, XLR
+PLEKHG2	AR
+RCC1	AR
+TRICY1	AD
+PLEKHG5	AR
+SLC7A14	AR
+SELE	Multifactorial
+BBS2	AR
+TTC21B	AR, AD
+CD164	AD
+BBS7	AR
+TTC21A	AR
+AP4M1	AR
+Contiguous gene syndrome associated with duplication (4.5 - 9.2Mb) of chromosome Xp11.22-p11.23 {UMLS C3275407}	XLD
+TSGA10	AR
+HHPP	AD
+DUP1q21	AD
+DEPDC5	AD
+B4GAT1	AR
+PTRF	AR
+DNM1L	AD
+SERPINH1	AR
+NFIX	AD
+FOLR1	AR
+AARF	AR
+TNFRSF1A	AD
