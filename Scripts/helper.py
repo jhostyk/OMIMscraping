@@ -304,12 +304,11 @@ def isKeyWordInAnySymptom(keyword, synopsis):
 
 def getManifestationsFromString(string):
 
-	splitString = string.split("\n")
-	splitString = ["FLAG" + s for s in splitString]
-	pattern = re.compile(r"FLAG([\w ]*) \{")
-	for s in splitString:
-		manifestations = pattern.findall(s)
-	return manifestations
+	individualConcepts = string.replace("'", "").split(";\n")
+	startOfConceptIDs = [concept.index("{") if "{" in concept else len(concept) for concept in individualConcepts]
+	conceptStrings = [concept[:startOfConceptID - 1] for concept, startOfConceptID in zip(individualConcepts, startOfConceptIDs)]
+
+	return sorted(conceptStrings)
 
 
 def getManifestationStringFromSynopsis(synopsis, category, oldFormatCategory):
