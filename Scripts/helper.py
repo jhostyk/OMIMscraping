@@ -18,11 +18,12 @@ import os
 import sys
 import time
 import csv
-import urllib2
+# import urllib2
 import imp
 import re
 from difflib import SequenceMatcher
 from collections import defaultdict
+from six import string_types # For the "basestring" stuff
 
 ###################################################################################################
 
@@ -100,7 +101,7 @@ def createOneBigFile():
 
 def getAllSynopses():
 
-	print "Loading data..."
+	print ("Loading data...")
 	sys.dont_write_bytecode = True
 	allSynopses = imp.load_source('', PROJECT + "Data/OMIMresults/{}_all.py".format(CURRENT_DATE_VERSION)).omim
 
@@ -213,10 +214,10 @@ def testGeneScraper():
 	allSynopses = getAllSynopses()
 	phenoMimsToGenesDict = makeMIMdict()
 
-	print "Parsing synopses..."
+	print ("Parsing synopses...")
 	genesInheritance = {}
 	allMaybeGenes = set()
-	for _, synopsis in allSynopses.iteritems():
+	for _, synopsis in allSynopses.items():
 		if "molecularBasis" in synopsis:
 			molecularBasis = synopsis["molecularBasis"]
 		else:
@@ -239,7 +240,6 @@ def getOfficialGenes():
 	hgncFile = PROJECT + "Data/ReferenceFiles/HGNCgenes.tsv"
 	reader = csv.reader(open(hgncFile), delimiter='\t')
 	header = next(reader)
-	print header
 	for entry in reader:
 		entry = dict(zip(header, entry))
 		officialGenes.add(entry["Approved symbol"])
@@ -289,7 +289,7 @@ def getGeneListFromSynopsis(synopsis, phenoMimsToGenesDict, officialGeneList):
 def isKeyWordInAnySymptom(keyword, synopsis):
 
 	for key in synopsis:
-		if isinstance(synopsis[key], basestring) and keyword in synopsis[key].lower():
+		if isinstance(synopsis[key], str) and keyword in synopsis[key].lower():
 			return True
 	if "oldFormat" in synopsis:
 		return isKeyWordInAnySymptom(keyword, synopsis["oldFormat"])
@@ -331,7 +331,7 @@ def getSymptomsFromAllCategories():
 
 	categoriesToSymptoms = defaultdict(set)
 	allSynopses = getAllSynopses()
-	for _, synopsis in allSynopses.iteritems():
+	for _, synopsis in allSynopses.items():
 		# if "oldFormat" in synopsis:
 			# oldFormatDict = synopsis["oldFormat"]
 			# for category in oldFormatDict:
@@ -339,10 +339,10 @@ def getSymptomsFromAllCategories():
 		for category in synopsis:
 			if isinstance(synopsis[category], str) and category not in dontWant:
 				categoriesToSymptoms[category] |= getManifestationStringFromSynopsis(synopsis, category, oldFormatCategory=None)
-		# print categoriesToSymptoms
+		# print (categoriesToSymptoms)
 		# raise
-	# print categoriesToSymptoms
-	print "Writing results:"
+	# print (categoriesToSymptoms)
+	print ("Writing results:")
 	for category in categoriesToSymptoms:
 		with open(PROJECT + "ClinicalSynopsisCategories/{date}/{cat}.txt".format(date = CURRENT_DATE_VERSION, cat = category), "w") as out:
 			out.write("{date}. All symptoms listed in category {cat}:\n".format(date = CURRENT_DATE_VERSION, cat = category))
@@ -358,10 +358,10 @@ def makeInheritanceFile():
 	brainGenes = makeSetFromFile(PROJECT + "ReferenceFiles/brainExpressedGenesFromDrSanders.txt")
 	officialGeneList = getOfficialGenes()
 
-	print "Parsing synopses..."
+	print ("Parsing synopses...")
 	genesInheritance = {}
 	n = 0
-	for _, synopsis in allSynopses.iteritems():
+	for _, synopsis in allSynopses.items():
 		sys.stdout.write("\rOn synopsis {}".format(n))
 		sys.stdout.flush()
 		n+=1
@@ -385,10 +385,10 @@ def makeInheritanceAndSystemsFile():
 	brainGenes = makeSetFromFile(PROJECT + "ReferenceFiles/brainExpressedGenesFromDrSanders.txt")
 	officialGeneList = getOfficialGenes()
 
-	print "Parsing synopses..."
+	print ("Parsing synopses...")
 	genesData = {}
 	dontWant = ["molecularBasis", "miscellaneous", "inheritance"]
-	for _, synopsis in allSynopses.iteritems():
+	for _, synopsis in allSynopses.items():
 
 		genes, inheritance, _ = getSynopsisInfo(synopsis, brainGenes, phenoMimsToGenesDict, officialGeneList)
 		systems = set()
@@ -466,8 +466,8 @@ def getAllGenesDisorders():
 
 	genesAndTheirDisorders = {}
 
-	print "Parsing synopses..."
-	for synopsisID, synopsis in allSynopses.iteritems():
+	print ("Parsing synopses...")
+	for synopsisID, synopsis in allSynopses.items():
 
 		genes = getGeneListFromSynopsis(synopsis, phenoMimsToGenesDict, officialGeneList)
 		for gene in genes:
@@ -476,7 +476,7 @@ def getAllGenesDisorders():
 			genesAndTheirDisorders[gene]["indices"].add(synopsisID)
 			genesAndTheirDisorders[gene]["titles"].add(synopsis["preferredTitle"])
 
-	print "Writing results..."
+	print ("Writing results...")
 	
 	with open(PROJECT + "allGenes/genesToDisorders.txt", "w") as out:
 		out.write("Gene\tAssociated Disorder(s)\tSynopsis ID(s)\tNum Disorders\n")
@@ -491,9 +491,9 @@ def getGeneListsForEachCategory():
 	allCategoriesToGenes = defaultdict(set)
 	officialGeneList = getOfficialGenes()
 
-	print "Parsing synopses..."
+	print ("Parsing synopses...")
 	phenoMimsToGenesDict = makeMIMdict()
-	for _, synopsis in allSynopses.iteritems():
+	for _, synopsis in allSynopses.items():
 		genes = set(getGeneListFromSynopsis(synopsis, phenoMimsToGenesDict, officialGeneList))
 		for category in synopsis:
 			if synopsis[category] == True:

@@ -8,7 +8,6 @@
 from helper import *
 
 
-
 ###################################################################################################
 
 ### First steps: compare our results to GTR's.
@@ -20,9 +19,9 @@ def getKeyTerms():
 	GTRfilesPath = PROJECT + "Results/GeneSets/GTRgeneLists/"
 
 	filenames = os.listdir(GTRfilesPath)
-	keyTerms = [filename.replace(".tsv", "") for filename in filenames]
+	keyTerms = [filename.replace(".tsv", "") for filename in filenames if ".tsv" in filename]
 
-	print "We have {} keyterms.".format(len(keyTerms))
+	print ("We have {} keyterms.".format(len(keyTerms)))
 	return keyTerms
 
 def createOurGeneSets(keyWords, outputFolder):
@@ -31,15 +30,18 @@ def createOurGeneSets(keyWords, outputFolder):
 	officialGeneList = getOfficialGenes()
 	# inheritanceDictionary = makeDictFromTwoColumns(PROJECT + "allGenes/{}/allGenesInheritances.txt".format(CURRENT_DATE_VERSION), "\t")
 
-	print "Parsing synopses..."
+	print ("Parsing synopses...")
 	phenoMimsToGenesDict = makeMIMdict()
 	geneSets = defaultdict(set)
 
-	for _, synopsis in allSynopses.iteritems():
+	for _, synopsis in allSynopses.items():
 		for keyWord in keyWords:
+			# if keyWord == "Alzheimer's Disease":
+			# 	print ("hm")
+			# 	raise
 
 			## Get gene lists + disorder information, if a certain condition is met.
-			if isKeyWordInAnySymptom(keyWord.lower(), synopsis):
+			if iskeyWordInAnySymptom(keyWord.lower(), synopsis):
 
 				associatedGenes = set(getGeneListFromSynopsis(synopsis, phenoMimsToGenesDict, officialGeneList))
 				# brainGenes = []
@@ -48,9 +50,11 @@ def createOurGeneSets(keyWords, outputFolder):
 				geneSets[keyWord] |= set(associatedGenes)
 
 	# Write out each gene set.
-	for geneSetName, geneSet in geneSets.items():
-		with open(outputFolder + geneSetName + ".tsv", "w") as out:
-			out.write("\n".join(sorted(geneSet)))
+	# print ("Heart attack:", geneSets["Heart attack"])
+	for keyWord in keyWords:
+		genes = geneSets[keyWord]
+		with open(outputFolder + keyWord + ".tsv", "w") as out:
+			out.write("\n".join(sorted(genes)))
 
 	return
 
@@ -59,32 +63,47 @@ def getGeneSetsFromFolder(path):
 
 	geneSets = {} # defaultdict(set)
 
-	filenames = os.listdir(GTRfilesPath)
+	filenames = os.listdir(path)
 
 	for filename in filenames:
 
-		genes = {gene.strip() for gene in readlines(filename)}
-		geneSets[filename] = genes
+		if ".tsv" in filename:
+
+			with open(path + filename, "r") as file:
+				genes = {gene.strip() for gene in file}
+				geneSets[filename] = genes
 
 	return geneSets
 
 
 def compareSets():
 
-	GTRgeneSets = getGTRgeneSets(GTRfilesPath)
-	ourGeneSets = getGTRgeneSets(GTRfilesPath)
+	GTRfilesPath = PROJECT + "Results/GeneSets/GTRgeneLists/"
+	ourFilesPath = PROJECT + "Results/GeneSets/Ours/"
+
+	GTRgeneSets = getGeneSetsFromFolder(GTRfilesPath)
+	ourGeneSets = getGeneSetsFromFolder(ourFilesPath)
+
+	# print(set(GTRgeneSets.keys()).difference(set(ourGeneSets.keys())))
+	# print(set(ourGeneSets.keys()).difference(set(GTRgeneSets.keys())))
+
 	assert(len(GTRgeneSets) == len(ourGeneSets))
-	keywords = GTRgeneSets.keys()
+	# raise
+	keyWords = GTRgeneSets.keys()
 
-	with open("Results/FirstPassComparison.tsv", "w"):
-		for keyword in keyWords:
+	with open("Results/FirstPassComparison.tsv", "w") as out:
 
-			GTRgenes = GTRgeneSets[keyword]
-			ourGenes = ourGeneSets[keyword]
+		out.write("Set Name\tNum shared\tNumber just in GTR\tJust GTR\tNumber just in ours\tJust ours\n")
+		for keyWord in sorted(keyWords):
 
+			GTRgenes = GTRgeneSets[keyWord]
+			ourGenes = ourGeneSets[keyWord]
 
+			shared = ourGenes.intersection(GTRgenes)
+			justGTR = GTRgenes.difference(ourGenes)
+			justOurs = ourGenes.difference(GTRgenes)
 
-
+			out.write("{}\t{}\t{}\t{}\t{}\t{}\n".format(keyWord, len(shared), len(justGTR), " | ".join(justGTR), len(justOurs), " | ".join(justOurs)))
 
 
 if __name__ == '__main__':
@@ -101,9 +120,13 @@ if __name__ == '__main__':
 	# getMultipleSpecifiedListsOfGenes()
 	# getKeyTerms()
 
-	keyWords = getKeyTerms()
-	outputFolder = PROJECT + "Results/GeneSets/Ours/"
-	createOurGeneSets(keyWords, outputFolder)
+	# keyWords = getKeyTerms()
+
+	# outputFolder = PROJECT + "Results/GeneSets/Ours/"
+	# createOurGeneSets(keyWords, outputFolder)
+
+	compareSets()
+
 	
 	
 	
