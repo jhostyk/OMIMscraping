@@ -13,7 +13,7 @@ from helper import *
 ### First steps: compare our results to GTR's.
 
 ###################################################################################################
-###
+
 def getKeyTerms():
 
 	GTRfilesPath = PROJECT + "Results/GeneSets/GTRgeneLists/"
@@ -36,12 +36,9 @@ def createOurGeneSets(keyWords, outputFolder):
 
 	for _, synopsis in allSynopses.items():
 		for keyWord in keyWords:
-			# if keyWord == "Alzheimer's Disease":
-			# 	print ("hm")
-			# 	raise
 
 			## Get gene lists + disorder information, if a certain condition is met.
-			if iskeyWordInAnySymptom(keyWord.lower(), synopsis):
+			if isKeyWordInAnySymptom(keyWord.lower(), synopsis):
 
 				associatedGenes = set(getGeneListFromSynopsis(synopsis, phenoMimsToGenesDict, officialGeneList))
 				# brainGenes = []
@@ -50,7 +47,6 @@ def createOurGeneSets(keyWords, outputFolder):
 				geneSets[keyWord] |= set(associatedGenes)
 
 	# Write out each gene set.
-	# print ("Heart attack:", geneSets["Heart attack"])
 	for keyWord in keyWords:
 		genes = geneSets[keyWord]
 		with open(outputFolder + keyWord + ".tsv", "w") as out:
@@ -84,11 +80,7 @@ def compareSets():
 	GTRgeneSets = getGeneSetsFromFolder(GTRfilesPath)
 	ourGeneSets = getGeneSetsFromFolder(ourFilesPath)
 
-	# print(set(GTRgeneSets.keys()).difference(set(ourGeneSets.keys())))
-	# print(set(ourGeneSets.keys()).difference(set(GTRgeneSets.keys())))
-
 	assert(len(GTRgeneSets) == len(ourGeneSets))
-	# raise
 	keyWords = GTRgeneSets.keys()
 
 	with open("Results/FirstPassComparison.tsv", "w") as out:
@@ -105,6 +97,96 @@ def compareSets():
 
 			out.write("{}\t{}\t{}\t{}\t{}\t{}\n".format(keyWord, len(shared), len(justGTR), " | ".join(justGTR), len(justOurs), " | ".join(justOurs)))
 
+
+
+###################################################################################################
+
+### Next: filtering categories.
+
+###################################################################################################
+
+
+def getGeneSet(keyWord):
+
+
+	 question = [inquirer.List("Keyword", message = "Please enter your keyword",
+					choices = ["No, these are great!"] + list(categoriesToGenes.keys()),
+				),
+	]
+	answer = inquirer.prompt(question)
+	keyWord = answer["Keyword"]
+
+
+
+	### TODO:
+	synonyms = getSynonyms(keyword)
+
+	allSynopses = getAllSynopses()
+	officialGeneList = getOfficialGenes()
+
+	print ("Parsing synopses...")
+	phenoMimsToGenesDict = makeMIMdict()
+	foundGenes = set()
+	categoriesToGenes = defaultdict(set)
+
+	dontWant = ["molecularBasis", "miscellaneous", "inheritance"]
+
+
+
+	### Get the info
+	for _, synopsis in allSynopses.items():
+
+		## Get gene lists + disorder information, if a certain condition is met.
+		if isKeyWordInAnySymptom(keyWord.lower(), synopsis):
+
+			currentCategories = set()
+
+			associatedGenes = set(getGeneListFromSynopsis(synopsis, phenoMimsToGenesDict, officialGeneList))
+			foundGenes |= associatedGenes
+			for aspect in synopsis:
+				if isinstance(synopsis[aspect], str) and "{" in synopsis[aspect] and aspect not in dontWant:
+					currentCategories.add(aspect)
+			for gene in associatedGenes:
+				for category in currentCategories:
+
+					categoriesToGenes[category].add(gene)
+
+	### Let the user remove categories:
+	categoryToExclude = None
+	excludedCategories = set()
+	excludedGenes = set()
+	while categoryToExclude !=  "No, these are great!":
+
+		genesToExclude = categoriesToGenes[categoryToExclude]
+
+		for geneToExclude in genesToExclude:
+
+			excludedGenes.add(geneToExclude)
+			excludedCategories.add(categoryToExclude)
+			foundGenes.remove(geneToExclude)
+			if categoryToExclude:
+				excludedCategories.add(categoryToExclude)
+			for category, genes in categoriesToGenes.items():
+
+				categoriesToGenes[category] = {gene for gene in genes if gene != geneToExclude}
+		### If we removed the last gene from a certain category, we get rid of it:
+		categoriesToGenes = {category: genes for category, genes in categoriesToGenes.items() if len(genes) > 0}
+
+		question = [
+	 	inquirer.List("Exclude", message = "There are currently {} genes. Would you like to exclude any categories?".format(len(foundGenes)),
+	 				choices = ["No, these are great!"] + list(categoriesToGenes.keys()),
+					),
+		]
+		answer = inquirer.prompt(question)
+		categoryToExclude = answer["Exclude"]
+
+	print ("{} categories were excluded, removing {} total genes.".format(len(excludedCategories), len(excludedGenes)))
+	print ("The remaining categories are:")
+	print (" | ".join(sorted(categoriesToGenes.keys())))
+	print ("Final gene list:")
+	print (sorted(foundGenes))
+
+				
 
 if __name__ == '__main__':
 
@@ -125,7 +207,7 @@ if __name__ == '__main__':
 	# outputFolder = PROJECT + "Results/GeneSets/Ours/"
 	# createOurGeneSets(keyWords, outputFolder)
 
-	compareSets()
+	getGeneSet("acanthosis")
 
 	
 	

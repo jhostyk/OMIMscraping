@@ -24,6 +24,7 @@ import re
 from difflib import SequenceMatcher
 from collections import defaultdict
 from six import string_types # For the "basestring" stuff
+import inquirer
 
 ###################################################################################################
 
@@ -392,7 +393,7 @@ def makeInheritanceAndSystemsFile():
 		genes, inheritance, _ = getSynopsisInfo(synopsis, brainGenes, phenoMimsToGenesDict, officialGeneList)
 		systems = set()
 		for aspect in synopsis:
-			if isinstance(synopsis[aspect], basestring) and "{" in synopsis[aspect] and aspect not in dontWant:
+			if isinstance(synopsis[aspect], str) and "{" in synopsis[aspect] and aspect not in dontWant:
 				systems.add(aspect)
 
 
