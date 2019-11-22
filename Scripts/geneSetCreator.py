@@ -106,27 +106,41 @@ def compareSets():
 ###################################################################################################
 
 
-def getGeneSet(keyWord):
+def getGeneSet():
 
-
-	 question = [inquirer.List("Keyword", message = "Please enter your keyword",
-					choices = ["No, these are great!"] + list(categoriesToGenes.keys()),
-				),
-	]
-	answer = inquirer.prompt(question)
-	keyWord = answer["Keyword"]
-
-
-
-	### TODO:
-	synonyms = getSynonyms(keyword)
+	conceptsToTheirCode, codesToSynonyms = getAllSynonyms()
 
 	allSynopses = getAllSynopses()
 	officialGeneList = getOfficialGenes()
 
 	print ("Parsing synopses...")
 	phenoMimsToGenesDict = makeMIMdict()
-	foundGenes = set()
+
+	responses = set()
+	response = None
+
+	while response != "done":
+
+		question = [inquirer.Text("Keyword", message = "Please enter your search term, or 'done'"
+					),
+		]
+		answer = inquirer.prompt(question)
+		response = answer["Keyword"]
+
+		if response != "done":
+			responses.add(response)
+	print("using the keyWords:", responses)
+
+	keyWords = set(responses)
+	for response in responses:
+		### If a term doesn't have a synonym, it won't be in conceptsToTheirCode
+		if response.lower() in conceptsToTheirCode:
+			code = conceptsToTheirCode[response.lower()]
+			keyWords |= set(codesToSynonyms[code])
+			print ("For {}, found the synonyms {}.".format(response, codesToSynonyms[code]))
+	
+	# foundGenes = set()
+	foundGenesToKeyWords = defaultdict(set)
 	categoriesToGenes = defaultdict(set)
 
 	dontWant = ["molecularBasis", "miscellaneous", "inheritance"]
@@ -135,21 +149,24 @@ def getGeneSet(keyWord):
 
 	### Get the info
 	for _, synopsis in allSynopses.items():
+		for keyWord in keyWords:
 
-		## Get gene lists + disorder information, if a certain condition is met.
-		if isKeyWordInAnySymptom(keyWord.lower(), synopsis):
+			## Get gene lists + disorder information, if a certain condition is met.
+			if isKeyWordInAnySymptom(keyWord.lower(), synopsis):
 
-			currentCategories = set()
+				currentCategories = set()
 
-			associatedGenes = set(getGeneListFromSynopsis(synopsis, phenoMimsToGenesDict, officialGeneList))
-			foundGenes |= associatedGenes
-			for aspect in synopsis:
-				if isinstance(synopsis[aspect], str) and "{" in synopsis[aspect] and aspect not in dontWant:
-					currentCategories.add(aspect)
-			for gene in associatedGenes:
-				for category in currentCategories:
+				associatedGenes = set(getGeneListFromSynopsis(synopsis, phenoMimsToGenesDict, officialGeneList))
+				# foundGenes |= associatedGenes
+				for gene in associatedGenes:
+					foundGenesToKeyWords[gene].add(keyWord)
+				for aspect in synopsis:
+					if isinstance(synopsis[aspect], str) and "{" in synopsis[aspect] and aspect not in dontWant:
+						currentCategories.add(aspect)
+				for gene in associatedGenes:
+					for category in currentCategories:
 
-					categoriesToGenes[category].add(gene)
+						categoriesToGenes[category].add(gene)
 
 	### Let the user remove categories:
 	categoryToExclude = None
@@ -163,7 +180,8 @@ def getGeneSet(keyWord):
 
 			excludedGenes.add(geneToExclude)
 			excludedCategories.add(categoryToExclude)
-			foundGenes.remove(geneToExclude)
+			# foundGenes.remove(geneToExclude)
+			del foundGenesToKeyWords[geneToExclude]
 			if categoryToExclude:
 				excludedCategories.add(categoryToExclude)
 			for category, genes in categoriesToGenes.items():
@@ -173,18 +191,25 @@ def getGeneSet(keyWord):
 		categoriesToGenes = {category: genes for category, genes in categoriesToGenes.items() if len(genes) > 0}
 
 		question = [
-	 	inquirer.List("Exclude", message = "There are currently {} genes. Would you like to exclude any categories?".format(len(foundGenes)),
+	 	inquirer.List("Exclude", message = "There are currently {} genes. Would you like to exclude any categories?".format(len(foundGenesToKeyWords)),
 	 				choices = ["No, these are great!"] + list(categoriesToGenes.keys()),
 					),
 		]
 		answer = inquirer.prompt(question)
 		categoryToExclude = answer["Exclude"]
 
-	print ("{} categories were excluded, removing {} total genes.".format(len(excludedCategories), len(excludedGenes)))
-	print ("The remaining categories are:")
-	print (" | ".join(sorted(categoriesToGenes.keys())))
+	# print ("{} categories were excluded, removing {} total genes.".format(len(excludedCategories), len(excludedGenes)))
+	# print ("The remaining categories are:")
+	# print (" | ".join(sorted(categoriesToGenes.keys())))
 	print ("Final gene list:")
-	print (sorted(foundGenes))
+	print (sorted(foundGenesToKeyWords))
+
+	with open(PROJECT + "test.tsv", "w") as out:
+
+		out.write("Gene\t{}\n".format("\t".join(sorted(keyWords))))
+		for gene, keyWordsThatFlaggedIt in sorted(foundGenesToKeyWords.items()):
+
+			out.write("{}\t{}\n".format(gene, "\t".join(["X" if keyWord in keyWordsThatFlaggedIt else "" for keyWord in sorted(keyWords)])))
 
 				
 
@@ -207,7 +232,8 @@ if __name__ == '__main__':
 	# outputFolder = PROJECT + "Results/GeneSets/Ours/"
 	# createOurGeneSets(keyWords, outputFolder)
 
-	getGeneSet("acanthosis")
+	getGeneSet()
+	# makeUniqueCodes()
 
 	
 	

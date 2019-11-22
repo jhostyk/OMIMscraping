@@ -504,3 +504,113 @@ def getGeneListsForEachCategory():
 			out.write("Gene lists for synopses that have a symptom in {cat}. Scraped {date}.\n".format(cat = category, date = CURRENT_DATE_VERSION))
 			out.write("\n".join(allCategoriesToGenes[category]))
 
+
+
+
+###################################################################################################
+
+### Concept mapping!
+
+###################################################################################################
+
+def getSynonymsForOneTerm(term):
+
+	with open(PROJECT + "Data/ReferenceFiles/snomedSynonyms.tsv", "r") as snomed:
+
+		for line in snomed:
+
+			if term.lower() in snomed.lower():
+
+				synonyms = line.lower().strip().split("\t") # Sure hope uppercase doesn't matter.
+				return synonyms
+	return None
+
+
+
+def getAllSynonyms():
+
+	conceptsToTheirCode = {}
+	codesToSynonyms = {}
+
+	with open(PROJECT + "Data/ReferenceFiles/snomedSynonymsWithCodes.tsv", "r") as snomed:
+
+		# Each line is a code, and then all the terms with that code.
+		# Sometimes there is only one term.
+		for line in snomed:
+
+			synonyms = line.lower().strip().split("\t") # Sure hope uppercase doesn't matter.
+			if len(synonyms) > 2: # A lot of terms are just the word itself.
+
+				code = synonyms.pop(0)
+
+				codesToSynonyms[code] = synonyms
+				for synonym in synonyms:
+					conceptsToTheirCode[synonym] = code
+
+	return conceptsToTheirCode, codesToSynonyms
+
+
+
+def getSynonyms(fullListOfSynonyms, currentTerm, allSynonymsDict, seenToCodes, currentCode):
+
+	fullListOfSynonyms.add(currentTerm)
+	seenToCodes[currentTerm] = currentCode
+	itsSynonyms = allSynonymsDict[currentTerm]
+	fullListOfSynonyms |= set(itsSynonyms)
+
+	for synonym in itsSynonyms:
+		if synonym not in seenToCodes:
+			seenToCodes[synonym] = currentCode
+			fullListOfSynonyms |= set(getSynonyms(fullListOfSynonyms, synonym, allSynonymsDict, seenToCodes, currentCode))
+	return fullListOfSynonyms
+
+
+
+def makeUniqueCodes():
+
+
+	allSynonyms = defaultdict(set)
+	conceptsToTheirCode = {}
+	codesToSynonyms = {}
+
+	with open(PROJECT + "Data/ReferenceFiles/snomedSynonymsWithCodes.tsv", "r") as snomed:
+
+		# Each line is a code, and then all the terms with that code.
+		# Sometimes there is only one term.
+		for line in snomed:
+
+			synonyms = line.lower().strip().split("\t") # Sure hope uppercase doesn't matter.
+			if len(synonyms) > 2: # A lot of terms are just the word itself.
+
+				code = synonyms.pop(0)
+
+				codesToSynonyms[code] = synonyms
+				for synonym in synonyms:
+					allSynonyms[synonym] |= set(synonyms).difference(set(synonym))
+
+	uniqueSynonyms = defaultdict(set)
+	seenToCodes = dict()
+
+	for code, concept in enumerate(allSynonyms):
+
+		if concept not in seenToCodes:
+			seenToCodes[concept] = code
+			currentList = set()
+			synList = getSynonyms(currentList, concept, allSynonyms, seenToCodes, code)
+			# print("currently", synList)
+			# raise
+			uniqueSynonyms[code] = synList
+			# seenToCodes |= synList
+			for synonym in synList:
+				seenToCodes[synonym] = code
+		
+	with open("Data/ReferenceFiles/snomedSynonyms_Unique.tsv", "w") as out:
+
+		out.write("Code\tSynonyms\n")
+		for code, synonyms in enumerate(uniqueSynonyms):
+			print (code, synonyms)
+
+			out.write("{}\t{}\n".format(code, "\t".join(list(synonyms))))
+
+	return conceptsToTheirCode, codesToSynonyms
+
